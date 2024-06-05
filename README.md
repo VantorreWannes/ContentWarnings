@@ -1,2 +1,2 @@
 # ContentWarnings
-Browsing keyword statistics and analyzer
+Warns about user-defined keywords on webpages
