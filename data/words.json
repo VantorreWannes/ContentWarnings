@@ -1,6 +1,7 @@
 [
     {
-        "violence": [
+        "name": "Violence",
+        "words": [
             "assault",
             "attack",
             "beating",
@@ -120,7 +121,8 @@
         ]
     },
     {
-        "Graphic Images": [
+        "name": "Graphic Images",
+        "words": [
             "blood",
             "gore",
             "violence",
@@ -186,7 +188,8 @@
         ]
     },
     {
-        "Gore": [
+        "name": "Gore",
+        "words": [
             "blood",
             "guts",
             "mutilation",
@@ -258,7 +261,8 @@
         ]
     },
     {
-        "Nudity": [
+        "name": "Nudity",
+        "words": [
             "naked",
             "nude",
             "bare",
@@ -353,7 +357,8 @@
         ]
     },
     {
-        "Sexual Content": [
+        "name": "Sexual Content",
+        "words": [
             "adult",
             "porn",
             "erotic",
@@ -413,7 +418,8 @@
         ]
     },
     {
-        "Profanity": [
+        "name": "Profanity",
+        "words": [
             "abuse",
             "bastard",
             "bitch",
