@@ -9,12 +9,14 @@ assignees: VantorreWannes
 
 Short clear issue description.
 
-## Todo:
+## Todo
+
 - [ ] Todo 1.
 - [ ] Todo 2.
 - [ ] Ect...
 
-## Definition Of Done:
+## Definition Of Done
+
 - [ ] Did you create a new branch?
 - [ ] Did you commit after each major change?
 - [ ] Did you complete all steps outlined in this issue?
