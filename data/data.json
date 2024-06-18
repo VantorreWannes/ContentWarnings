@@ -1,0 +1,1116 @@
+{
+    "assault": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "attack": [
+        "Violence"
+    ],
+    "beating": [
+        "Violence"
+    ],
+    "bloodshed": [
+        "Violence",
+        "Gore"
+    ],
+    "brutality": [
+        "Violence",
+        "Gore"
+    ],
+    "bullying": [
+        "Violence"
+    ],
+    "clash": [
+        "Violence"
+    ],
+    "combat": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "conflict": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "crime": [
+        "Violence"
+    ],
+    "cruelty": [
+        "Violence"
+    ],
+    "destruction": [
+        "Violence"
+    ],
+    "fight": [
+        "Violence"
+    ],
+    "force": [
+        "Violence"
+    ],
+    "genocide": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "harm": [
+        "Violence"
+    ],
+    "homicide": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "hostility": [
+        "Violence"
+    ],
+    "injury": [
+        "Violence"
+    ],
+    "kill": [
+        "Violence"
+    ],
+    "lynching": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "murder": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "riot": [
+        "Violence"
+    ],
+    "shooting": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "slaughter": [
+        "Violence",
+        "Gore"
+    ],
+    "terrorism": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "torture": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "vandalism": [
+        "Violence"
+    ],
+    "war": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "wound": [
+        "Violence"
+    ],
+    "abuse": [
+        "Violence",
+        "Graphic Images",
+        "Profanity"
+    ],
+    "aggression": [
+        "Violence"
+    ],
+    "battle": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "brawl": [
+        "Violence"
+    ],
+    "carnage": [
+        "Violence",
+        "Gore"
+    ],
+    "danger": [
+        "Violence"
+    ],
+    "death": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "duel": [
+        "Violence"
+    ],
+    "explosion": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "fisticuffs": [
+        "Violence"
+    ],
+    "fray": [
+        "Violence"
+    ],
+    "invasion": [
+        "Violence"
+    ],
+    "lynch": [
+        "Violence"
+    ],
+    "massacre": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "mayhem": [
+        "Violence",
+        "Gore"
+    ],
+    "melee": [
+        "Violence"
+    ],
+    "mutiny": [
+        "Violence"
+    ],
+    "onslaught": [
+        "Violence"
+    ],
+    "outbreak": [
+        "Violence"
+    ],
+    "pillage": [
+        "Violence"
+    ],
+    "punch": [
+        "Violence"
+    ],
+    "raid": [
+        "Violence"
+    ],
+    "rebellion": [
+        "Violence"
+    ],
+    "revolt": [
+        "Violence"
+    ],
+    "robbery": [
+        "Violence"
+    ],
+    "siege": [
+        "Violence"
+    ],
+    "skirmish": [
+        "Violence"
+    ],
+    "slay": [
+        "Violence"
+    ],
+    "snipe": [
+        "Violence"
+    ],
+    "stabbing": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "strangulation": [
+        "Violence"
+    ],
+    "strife": [
+        "Violence"
+    ],
+    "strike": [
+        "Violence"
+    ],
+    "subjugation": [
+        "Violence"
+    ],
+    "trouble": [
+        "Violence"
+    ],
+    "uprising": [
+        "Violence"
+    ],
+    "vengeance": [
+        "Violence"
+    ],
+    "wrath": [
+        "Violence"
+    ],
+    "battery": [
+        "Violence"
+    ],
+    "incitement": [
+        "Violence"
+    ],
+    "molestation": [
+        "Violence"
+    ],
+    "intimidation": [
+        "Violence"
+    ],
+    "ravage": [
+        "Violence"
+    ],
+    "beatings": [
+        "Violence"
+    ],
+    "homicides": [
+        "Violence"
+    ],
+    "lynchings": [
+        "Violence"
+    ],
+    "riots": [
+        "Violence"
+    ],
+    "shootings": [
+        "Violence"
+    ],
+    "massacres": [
+        "Violence"
+    ],
+    "mayhems": [
+        "Violence"
+    ],
+    "onslaughts": [
+        "Violence"
+    ],
+    "outbreaks": [
+        "Violence"
+    ],
+    "robberies": [
+        "Violence"
+    ],
+    "sieges": [
+        "Violence"
+    ],
+    "skirmishes": [
+        "Violence"
+    ],
+    "slayings": [
+        "Violence"
+    ],
+    "strangulations": [
+        "Violence"
+    ],
+    "strikes": [
+        "Violence"
+    ],
+    "subjugations": [
+        "Violence"
+    ],
+    "uprisings": [
+        "Violence"
+    ],
+    "vengeances": [
+        "Violence"
+    ],
+    "atrocities": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "battering": [
+        "Violence"
+    ],
+    "bombardment": [
+        "Violence"
+    ],
+    "dismemberment": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "mutilation": [
+        "Violence",
+        "Graphic Images",
+        "Gore"
+    ],
+    "hostage-taking": [
+        "Violence"
+    ],
+    "terrorist attack": [
+        "Violence"
+    ],
+    "gang violence": [
+        "Violence"
+    ],
+    "domestic violence": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "armed robbery": [
+        "Violence"
+    ],
+    "mob violence": [
+        "Violence"
+    ],
+    "street fight": [
+        "Violence"
+    ],
+    "drive-by shooting": [
+        "Violence"
+    ],
+    "violent protest": [
+        "Violence"
+    ],
+    "racial violence": [
+        "Violence"
+    ],
+    "sexual assault": [
+        "Violence"
+    ],
+    "child abuse": [
+        "Violence",
+        "Graphic Images"
+    ],
+    "honor killing": [
+        "Violence"
+    ],
+    "violent crime": [
+        "Violence"
+    ],
+    "violent act": [
+        "Violence"
+    ],
+    "violent behavior": [
+        "Violence"
+    ],
+    "##CENSORED##": [
+        "Violence",
+        "Graphic Images",
+        "Nudity"
+    ],
+    "blood": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "gore": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "violence": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "wounds": [
+        "Graphic Images"
+    ],
+    "injuries": [
+        "Graphic Images"
+    ],
+    "decapitation": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "crime scene": [
+        "Graphic Images"
+    ],
+    "autopsy": [
+        "Graphic Images"
+    ],
+    "cadaver": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "corpse": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "dead body": [
+        "Graphic Images"
+    ],
+    "execution": [
+        "Graphic Images"
+    ],
+    "self-harm": [
+        "Graphic Images"
+    ],
+    "suicide": [
+        "Graphic Images"
+    ],
+    "beheading": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "rape": [
+        "Graphic Images"
+    ],
+    "animal cruelty": [
+        "Graphic Images"
+    ],
+    "animal abuse": [
+        "Graphic Images"
+    ],
+    "roadkill": [
+        "Graphic Images"
+    ],
+    "accident": [
+        "Graphic Images"
+    ],
+    "disaster": [
+        "Graphic Images"
+    ],
+    "natural disaster": [
+        "Graphic Images"
+    ],
+    "famine": [
+        "Graphic Images"
+    ],
+    "starvation": [
+        "Graphic Images"
+    ],
+    "decomposed body": [
+        "Graphic Images"
+    ],
+    "burned body": [
+        "Graphic Images"
+    ],
+    "burn wounds": [
+        "Graphic Images"
+    ],
+    "charred remains": [
+        "Graphic Images"
+    ],
+    "drowning": [
+        "Graphic Images"
+    ],
+    "suffocation": [
+        "Graphic Images"
+    ],
+    "poisoning": [
+        "Graphic Images"
+    ],
+    "hanging": [
+        "Graphic Images"
+    ],
+    "bludgeoning": [
+        "Graphic Images",
+        "Gore"
+    ],
+    "cannibalism": [
+        "Graphic Images"
+    ],
+    "mass shooting": [
+        "Graphic Images"
+    ],
+    "war crimes": [
+        "Graphic Images"
+    ],
+    "pedophilia": [
+        "Graphic Images"
+    ],
+    "bestiality": [
+        "Graphic Images"
+    ],
+    "necrophilia": [
+        "Graphic Images"
+    ],
+    "guts": [
+        "Gore"
+    ],
+    "gruesome": [
+        "Gore"
+    ],
+    "gory": [
+        "Gore"
+    ],
+    "horrific": [
+        "Gore"
+    ],
+    "macabre": [
+        "Gore"
+    ],
+    "savage": [
+        "Gore"
+    ],
+    "butchery": [
+        "Gore"
+    ],
+    "grizzly": [
+        "Gore"
+    ],
+    "maiming": [
+        "Gore"
+    ],
+    "gruesomeness": [
+        "Gore"
+    ],
+    "grisliness": [
+        "Gore"
+    ],
+    "mass killing": [
+        "Gore"
+    ],
+    "horror": [
+        "Gore"
+    ],
+    "extermination": [
+        "Gore"
+    ],
+    "savageness": [
+        "Gore"
+    ],
+    "butchering": [
+        "Gore"
+    ],
+    "slaying": [
+        "Gore"
+    ],
+    "bloodbath": [
+        "Gore"
+    ],
+    "bloodletting": [
+        "Gore"
+    ],
+    "grisly": [
+        "Gore"
+    ],
+    "violent": [
+        "Gore"
+    ],
+    "deadly": [
+        "Gore"
+    ],
+    "gruesome death": [
+        "Gore"
+    ],
+    "gruesome injury": [
+        "Gore"
+    ],
+    "bloody": [
+        "Gore",
+        "Profanity"
+    ],
+    "violent death": [
+        "Gore"
+    ],
+    "violent injury": [
+        "Gore"
+    ],
+    "sanguinary": [
+        "Gore"
+    ],
+    "morbid": [
+        "Gore"
+    ],
+    "suffering": [
+        "Gore"
+    ],
+    "harrowing": [
+        "Gore"
+    ],
+    "heinous": [
+        "Gore"
+    ],
+    "atrocity": [
+        "Gore"
+    ],
+    "abomination": [
+        "Gore"
+    ],
+    "impaling": [
+        "Gore"
+    ],
+    "evisceration": [
+        "Gore"
+    ],
+    "disembowelment": [
+        "Gore"
+    ],
+    "slicing": [
+        "Gore"
+    ],
+    "skinning": [
+        "Gore"
+    ],
+    "torn apart": [
+        "Gore"
+    ],
+    "smashed": [
+        "Gore"
+    ],
+    "crushed": [
+        "Gore"
+    ],
+    "bashed": [
+        "Gore"
+    ],
+    "laceration": [
+        "Gore"
+    ],
+    "brutal": [
+        "Gore"
+    ],
+    "naked": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "nude": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "bare": [
+        "Nudity"
+    ],
+    "unclothed": [
+        "Nudity"
+    ],
+    "undressed": [
+        "Nudity"
+    ],
+    "topless": [
+        "Nudity"
+    ],
+    "bottomless": [
+        "Nudity"
+    ],
+    "stripped": [
+        "Nudity"
+    ],
+    "exposed": [
+        "Nudity"
+    ],
+    "skin": [
+        "Nudity"
+    ],
+    "birthday suit": [
+        "Nudity"
+    ],
+    "buff": [
+        "Nudity"
+    ],
+    "stark naked": [
+        "Nudity"
+    ],
+    "au naturel": [
+        "Nudity"
+    ],
+    "in the buff": [
+        "Nudity"
+    ],
+    "bare-assed": [
+        "Nudity"
+    ],
+    "bare-chested": [
+        "Nudity"
+    ],
+    "bare-breasted": [
+        "Nudity"
+    ],
+    "barefoot": [
+        "Nudity"
+    ],
+    "disrobed": [
+        "Nudity"
+    ],
+    "in the raw": [
+        "Nudity"
+    ],
+    "uncovered": [
+        "Nudity"
+    ],
+    "revealed": [
+        "Nudity"
+    ],
+    "unveiled": [
+        "Nudity"
+    ],
+    "flashing": [
+        "Nudity"
+    ],
+    "moon": [
+        "Nudity"
+    ],
+    "moonlight": [
+        "Nudity"
+    ],
+    "streaking": [
+        "Nudity"
+    ],
+    "stripping": [
+        "Nudity"
+    ],
+    "undressing": [
+        "Nudity"
+    ],
+    "peep show": [
+        "Nudity"
+    ],
+    "lewd": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "erotic": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "sensual": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "provocative": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "adult content": [
+        "Nudity"
+    ],
+    "pornographic": [
+        "Nudity"
+    ],
+    "explicit": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "obscene": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "sexual content": [
+        "Nudity"
+    ],
+    "softcore": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "hardcore": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "racy": [
+        "Nudity"
+    ],
+    "risqu\u00e9": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "voyeur": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "voyeurism": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "scantily clad": [
+        "Nudity"
+    ],
+    "skimpy": [
+        "Nudity"
+    ],
+    "revealing": [
+        "Nudity"
+    ],
+    "see-through": [
+        "Nudity"
+    ],
+    "transparent": [
+        "Nudity"
+    ],
+    "sheer": [
+        "Nudity"
+    ],
+    "XXX": [
+        "Nudity"
+    ],
+    "NSFW": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "graphic content": [
+        "Nudity"
+    ],
+    "seductive": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "suggestive": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "teasing": [
+        "Nudity"
+    ],
+    "erotica": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "striptease": [
+        "Nudity"
+    ],
+    "burlesque": [
+        "Nudity"
+    ],
+    "pin-up": [
+        "Nudity"
+    ],
+    "centerfold": [
+        "Nudity"
+    ],
+    "sensuality": [
+        "Nudity"
+    ],
+    "nudism": [
+        "Nudity"
+    ],
+    "naturism": [
+        "Nudity"
+    ],
+    "topless beach": [
+        "Nudity"
+    ],
+    "nudist": [
+        "Nudity"
+    ],
+    "nudist colony": [
+        "Nudity"
+    ],
+    "nude beach": [
+        "Nudity"
+    ],
+    "exhibitionism": [
+        "Nudity",
+        "Sexual Content"
+    ],
+    "flasher": [
+        "Nudity"
+    ],
+    "bare skin": [
+        "Nudity"
+    ],
+    "revealing clothes": [
+        "Nudity"
+    ],
+    "skimpy outfit": [
+        "Nudity"
+    ],
+    "undergarments": [
+        "Nudity"
+    ],
+    "lingerie": [
+        "Nudity"
+    ],
+    "swimwear": [
+        "Nudity"
+    ],
+    "nipple": [
+        "Nudity"
+    ],
+    "genitals": [
+        "Nudity"
+    ],
+    "private parts": [
+        "Nudity"
+    ],
+    "erogenous zones": [
+        "Nudity"
+    ],
+    "body parts": [
+        "Nudity"
+    ],
+    "strip club": [
+        "Nudity"
+    ],
+    "adult entertainment": [
+        "Nudity"
+    ],
+    "erotic art": [
+        "Nudity"
+    ],
+    "body painting": [
+        "Nudity"
+    ],
+    "nude photography": [
+        "Nudity"
+    ],
+    "erotic literature": [
+        "Nudity"
+    ],
+    "adult": [
+        "Sexual Content"
+    ],
+    "porn": [
+        "Sexual Content"
+    ],
+    "sex": [
+        "Sexual Content"
+    ],
+    "xxx": [
+        "Sexual Content"
+    ],
+    "intimate": [
+        "Sexual Content"
+    ],
+    "fetish": [
+        "Sexual Content"
+    ],
+    "strip": [
+        "Sexual Content"
+    ],
+    "prostitute": [
+        "Sexual Content"
+    ],
+    "escort": [
+        "Sexual Content"
+    ],
+    "brothel": [
+        "Sexual Content"
+    ],
+    "incest": [
+        "Sexual Content"
+    ],
+    "orgasm": [
+        "Sexual Content"
+    ],
+    "masturbate": [
+        "Sexual Content"
+    ],
+    "foreplay": [
+        "Sexual Content"
+    ],
+    "seduction": [
+        "Sexual Content"
+    ],
+    "aphrodisiac": [
+        "Sexual Content"
+    ],
+    "libido": [
+        "Sexual Content"
+    ],
+    "sexuality": [
+        "Sexual Content"
+    ],
+    "kama sutra": [
+        "Sexual Content"
+    ],
+    "orgy": [
+        "Sexual Content"
+    ],
+    "swinger": [
+        "Sexual Content"
+    ],
+    "polyamory": [
+        "Sexual Content"
+    ],
+    "bdsm": [
+        "Sexual Content"
+    ],
+    "bondage": [
+        "Sexual Content"
+    ],
+    "dominatrix": [
+        "Sexual Content"
+    ],
+    "submission": [
+        "Sexual Content"
+    ],
+    "kink": [
+        "Sexual Content"
+    ],
+    "lascivious": [
+        "Sexual Content"
+    ],
+    "lust": [
+        "Sexual Content"
+    ],
+    "sensuous": [
+        "Sexual Content"
+    ],
+    "tantalizing": [
+        "Sexual Content"
+    ],
+    "temptation": [
+        "Sexual Content"
+    ],
+    "erogenous": [
+        "Sexual Content"
+    ],
+    "sultry": [
+        "Sexual Content"
+    ],
+    "titillating": [
+        "Sexual Content"
+    ],
+    "alluring": [
+        "Sexual Content"
+    ],
+    "scandalous": [
+        "Sexual Content"
+    ],
+    "raunchy": [
+        "Sexual Content"
+    ],
+    "bastard": [
+        "Profanity"
+    ],
+    "bitch": [
+        "Profanity"
+    ],
+    "bollocks": [
+        "Profanity"
+    ],
+    "bugger": [
+        "Profanity"
+    ],
+    "bullshit": [
+        "Profanity"
+    ],
+    "crap": [
+        "Profanity"
+    ],
+    "cunt": [
+        "Profanity"
+    ],
+    "damn": [
+        "Profanity"
+    ],
+    "dick": [
+        "Profanity"
+    ],
+    "douche": [
+        "Profanity"
+    ],
+    "fuck": [
+        "Profanity"
+    ],
+    "motherfucker": [
+        "Profanity"
+    ],
+    "piss": [
+        "Profanity"
+    ],
+    "prick": [
+        "Profanity"
+    ],
+    "shit": [
+        "Profanity"
+    ],
+    "slut": [
+        "Profanity"
+    ],
+    "twat": [
+        "Profanity"
+    ],
+    "hell": [
+        "Profanity"
+    ],
+    "ass": [
+        "Profanity"
+    ],
+    "freak": [
+        "Profanity"
+    ],
+    "jerk": [
+        "Profanity"
+    ],
+    "suck": [
+        "Profanity"
+    ],
+    "freaking": [
+        "Profanity"
+    ],
+    "fricking": [
+        "Profanity"
+    ],
+    "heck": [
+        "Profanity"
+    ]
+}
