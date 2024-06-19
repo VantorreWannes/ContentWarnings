@@ -14,6 +14,7 @@ def format(file):
             if category["name"] not in words_dict[word]:
                 words_dict[word].append(category["name"])
     words_dict.pop("##CENSORED##")
+    words_dict.pop("###CENSORED###")
     return json.dumps(words_dict)
 
 if __name__ == "__main__":
