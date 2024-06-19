@@ -1,3 +1,6 @@
+const contentCategoriesPath = 'data/content_categories.json';
+const flagPhrasesPath = 'data/flag_phrases.json';
+
 async function fetchJsonFile(path) {
     const response = await fetch(browser.runtime.getURL(path));
     if (!response.ok) {
@@ -8,7 +11,6 @@ async function fetchJsonFile(path) {
 }
 
 async function saveFlagPhrases(localStorageKey) {
-    const flagPhrasesPath = 'data/words.json';
     const flagPhrases = await fetchJsonFile(flagPhrasesPath);
     localStorage.setItem(localStorageKey, JSON.stringify(flagPhrases));
 }
@@ -23,7 +25,6 @@ async function loadFlagPhrases() {
 }
 
 async function saveContentCategories(localStorageKey) {
-    const contentCategoriesPath = 'data/categories.json';
     const contentCategories = await fetchJsonFile(contentCategoriesPath);
     localStorage.setItem(localStorageKey, JSON.stringify(contentCategories));
 }
@@ -56,8 +57,8 @@ function countFlagPhrases(flagPhrases) {
 
 function foundCategoriesToArray(categoryFlagPhrases, contentCategories) {
     const foundCategories = Object.keys(categoryFlagPhrases).map(category => ({
-        category: category,
-        keywords: categoryFlagPhrases[category],
+        contentCategory: category,
+        flagPhrases: categoryFlagPhrases[category],
         ...contentCategories[category]
     }));
     return foundCategories;
