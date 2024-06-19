@@ -17,5 +17,5 @@ def format(file):
     return json.dumps(words_dict)
 
 if __name__ == "__main__":
-    with open("data/data.json", "w") as f:
-        f.write(format("data/words.json"))
+    with open("data/flag_phrases.json", "w") as f:
+        f.write(format("data/raw_data.json"))
