@@ -87,5 +87,3 @@ async function detectContentCategories() {
     const foundCategories = mapFlagPhrasesToCategories(flagPhrases, contentCategories);
     return foundCategories;
 }
-
-detectContentCategories();
