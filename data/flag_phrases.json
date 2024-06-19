@@ -49,7 +49,9 @@
     ],
     "genocide": [
         "Violence",
-        "Graphic Images"
+        "Graphic Images",
+        "Hate Speech",
+        "Racism"
     ],
     "harm": [
         "Violence"
@@ -60,7 +62,8 @@
         "Gore"
     ],
     "hostility": [
-        "Violence"
+        "Violence",
+        "Hate Speech"
     ],
     "injury": [
         "Violence"
@@ -111,7 +114,8 @@
     "abuse": [
         "Violence",
         "Graphic Images",
-        "Profanity"
+        "Profanity",
+        "Misogyny"
     ],
     "aggression": [
         "Violence"
@@ -220,7 +224,8 @@
         "Violence"
     ],
     "subjugation": [
-        "Violence"
+        "Violence",
+        "Misogyny"
     ],
     "trouble": [
         "Violence"
@@ -238,7 +243,8 @@
         "Violence"
     ],
     "incitement": [
-        "Violence"
+        "Violence",
+        "Hate Speech"
     ],
     "molestation": [
         "Violence"
@@ -334,7 +340,9 @@
     ],
     "domestic violence": [
         "Violence",
-        "Graphic Images"
+        "Graphic Images",
+        "Sexism",
+        "Misogyny"
     ],
     "armed robbery": [
         "Violence"
@@ -352,7 +360,8 @@
         "Violence"
     ],
     "racial violence": [
-        "Violence"
+        "Violence",
+        "Racism"
     ],
     "sexual assault": [
         "Violence"
@@ -375,7 +384,8 @@
     ],
     "blood": [
         "Graphic Images",
-        "Gore"
+        "Gore",
+        "Suicide"
     ],
     "gore": [
         "Graphic Images",
@@ -416,10 +426,12 @@
         "Graphic Images"
     ],
     "self-harm": [
-        "Graphic Images"
+        "Graphic Images",
+        "Suicide"
     ],
     "suicide": [
-        "Graphic Images"
+        "Graphic Images",
+        "Suicide"
     ],
     "beheading": [
         "Graphic Images",
@@ -1091,7 +1103,8 @@
         "Profanity"
     ],
     "freak": [
-        "Profanity"
+        "Profanity",
+        "Ableism"
     ],
     "jerk": [
         "Profanity"
@@ -1107,5 +1120,1035 @@
     ],
     "heck": [
         "Profanity"
+    ],
+    "Among Us": [
+        "Among Us"
+    ],
+    "sus": [
+        "Among Us"
+    ],
+    "impostor": [
+        "Among Us"
+    ],
+    "crewmate": [
+        "Among Us"
+    ],
+    "eject": [
+        "Among Us"
+    ],
+    "vent": [
+        "Among Us"
+    ],
+    "task": [
+        "Among Us"
+    ],
+    "sabotage": [
+        "Among Us"
+    ],
+    "emergency meeting": [
+        "Among Us"
+    ],
+    "discussion": [
+        "Among Us"
+    ],
+    "vote": [
+        "Among Us"
+    ],
+    "skip vote": [
+        "Among Us"
+    ],
+    "electrical": [
+        "Among Us"
+    ],
+    "medbay": [
+        "Among Us"
+    ],
+    "cafeteria": [
+        "Among Us"
+    ],
+    "navigation": [
+        "Among Us"
+    ],
+    "admin": [
+        "Among Us"
+    ],
+    "security": [
+        "Among Us"
+    ],
+    "reactor": [
+        "Among Us"
+    ],
+    "shields": [
+        "Among Us"
+    ],
+    "lower engine": [
+        "Among Us"
+    ],
+    "upper engine": [
+        "Among Us"
+    ],
+    "weapons": [
+        "Among Us"
+    ],
+    "communications": [
+        "Among Us"
+    ],
+    "storage": [
+        "Among Us"
+    ],
+    "task bar": [
+        "Among Us"
+    ],
+    "visual task": [
+        "Among Us"
+    ],
+    "scan": [
+        "Among Us"
+    ],
+    "swipe card": [
+        "Among Us"
+    ],
+    "wires": [
+        "Among Us"
+    ],
+    "divert power": [
+        "Among Us"
+    ],
+    "fuel engines": [
+        "Among Us"
+    ],
+    "fix lights": [
+        "Among Us"
+    ],
+    "prime shields": [
+        "Among Us"
+    ],
+    "clear asteroids": [
+        "Among Us"
+    ],
+    "inspect sample": [
+        "Among Us"
+    ],
+    "submit scan": [
+        "Among Us"
+    ],
+    "empty garbage": [
+        "Among Us"
+    ],
+    "empty chute": [
+        "Among Us"
+    ],
+    "align engine output": [
+        "Among Us"
+    ],
+    "calibrate distributor": [
+        "Among Us"
+    ],
+    "start reactor": [
+        "Among Us"
+    ],
+    "unlock manifolds": [
+        "Among Us"
+    ],
+    "clean O2 filter": [
+        "Among Us"
+    ],
+    "stabilize steering": [
+        "Among Us"
+    ],
+    "chart course": [
+        "Among Us"
+    ],
+    "accept diverted power": [
+        "Among Us"
+    ],
+    "monitor tree": [
+        "Among Us"
+    ],
+    "fix wiring": [
+        "Among Us"
+    ],
+    "secure boarding pass": [
+        "Among Us"
+    ],
+    "scan boarding pass": [
+        "Among Us"
+    ],
+    "decontaminate": [
+        "Among Us"
+    ],
+    "water plants": [
+        "Among Us"
+    ],
+    "enter ID code": [
+        "Among Us"
+    ],
+    "empty trash": [
+        "Among Us"
+    ],
+    "replace water jug": [
+        "Among Us"
+    ],
+    "assemble artifact": [
+        "Among Us"
+    ],
+    "sort samples": [
+        "Among Us"
+    ],
+    "record temperature": [
+        "Among Us"
+    ],
+    "open waterways": [
+        "Among Us"
+    ],
+    "reset seismic stabilizers": [
+        "Among Us"
+    ],
+    "fix weather node": [
+        "Among Us"
+    ],
+    "polus": [
+        "Among Us"
+    ],
+    "mira HQ": [
+        "Among Us"
+    ],
+    "skeld": [
+        "Among Us"
+    ],
+    "airship": [
+        "Among Us"
+    ],
+    "meeting room": [
+        "Among Us"
+    ],
+    "gap room": [
+        "Among Us"
+    ],
+    "cockpit": [
+        "Among Us"
+    ],
+    "engine room": [
+        "Among Us"
+    ],
+    "brig": [
+        "Among Us"
+    ],
+    "main hall": [
+        "Among Us"
+    ],
+    "medical": [
+        "Among Us"
+    ],
+    "armory": [
+        "Among Us"
+    ],
+    "cargo bay": [
+        "Among Us"
+    ],
+    "records": [
+        "Among Us"
+    ],
+    "showers": [
+        "Among Us"
+    ],
+    "lounge": [
+        "Among Us"
+    ],
+    "vault": [
+        "Among Us"
+    ],
+    "ventilation": [
+        "Among Us"
+    ],
+    "communications sabotage": [
+        "Among Us"
+    ],
+    "reactor meltdown": [
+        "Among Us"
+    ],
+    "oxygen depletion": [
+        "Among Us"
+    ],
+    "fix comms": [
+        "Among Us"
+    ],
+    "clear leaves": [
+        "Among Us"
+    ],
+    "download data": [
+        "Among Us"
+    ],
+    "upload data": [
+        "Among Us"
+    ],
+    "racist": [
+        "Hate Speech",
+        "Racism"
+    ],
+    "bigot": [
+        "Hate Speech"
+    ],
+    "xenophobic": [
+        "Hate Speech"
+    ],
+    "homophobic": [
+        "Hate Speech"
+    ],
+    "transphobic": [
+        "Hate Speech",
+        "Transphobia"
+    ],
+    "antisemitic": [
+        "Hate Speech"
+    ],
+    "sexist": [
+        "Hate Speech",
+        "Sexism"
+    ],
+    "supremacist": [
+        "Hate Speech"
+    ],
+    "hate group": [
+        "Hate Speech"
+    ],
+    "hate crime": [
+        "Hate Speech",
+        "Racism",
+        "Homophobia"
+    ],
+    "ethnic cleansing": [
+        "Hate Speech",
+        "Racism"
+    ],
+    "white power": [
+        "Hate Speech"
+    ],
+    "neo-nazi": [
+        "Hate Speech",
+        "Racism"
+    ],
+    "slur": [
+        "Hate Speech"
+    ],
+    "discrimination": [
+        "Hate Speech",
+        "Racism",
+        "Homophobia"
+    ],
+    "intolerance": [
+        "Hate Speech",
+        "Homophobia"
+    ],
+    "prejudice": [
+        "Hate Speech",
+        "Racism",
+        "Homophobia"
+    ],
+    "hate speech": [
+        "Hate Speech",
+        "Racism",
+        "Homophobia"
+    ],
+    "violent extremism": [
+        "Hate Speech"
+    ],
+    "radicalization": [
+        "Hate Speech"
+    ],
+    "hate propaganda": [
+        "Hate Speech"
+    ],
+    "hate rhetoric": [
+        "Hate Speech"
+    ],
+    "derogatory": [
+        "Hate Speech"
+    ],
+    "pejorative": [
+        "Hate Speech"
+    ],
+    "hate mongering": [
+        "Hate Speech"
+    ],
+    "misogynistic": [
+        "Hate Speech"
+    ],
+    "dehumanization": [
+        "Hate Speech"
+    ],
+    "racial slur": [
+        "Racism"
+    ],
+    "racially charged": [
+        "Racism"
+    ],
+    "racial profiling": [
+        "Racism"
+    ],
+    "white supremacy": [
+        "Racism"
+    ],
+    "xenophobia": [
+        "Racism"
+    ],
+    "bigotry": [
+        "Racism",
+        "Homophobia"
+    ],
+    "anti-immigrant": [
+        "Racism"
+    ],
+    "segregation": [
+        "Racism"
+    ],
+    "apartheid": [
+        "Racism"
+    ],
+    "racial inequality": [
+        "Racism"
+    ],
+    "racism": [
+        "Racism"
+    ],
+    "racial hatred": [
+        "Racism"
+    ],
+    "systemic racism": [
+        "Racism"
+    ],
+    "racial bias": [
+        "Racism"
+    ],
+    "institutional racism": [
+        "Racism"
+    ],
+    "ethnocentrism": [
+        "Racism"
+    ],
+    "racial superiority": [
+        "Racism"
+    ],
+    "white nationalist": [
+        "Racism"
+    ],
+    "racial stereotype": [
+        "Racism"
+    ],
+    "racial injustice": [
+        "Racism"
+    ],
+    "colorism": [
+        "Racism"
+    ],
+    "race-based": [
+        "Racism"
+    ],
+    "anti-Semitism": [
+        "Racism"
+    ],
+    "anti-blackness": [
+        "Racism"
+    ],
+    "anti-Asian": [
+        "Racism"
+    ],
+    "anti-Hispanic": [
+        "Racism"
+    ],
+    "anti-Indigenous": [
+        "Racism"
+    ],
+    "racial insult": [
+        "Racism"
+    ],
+    "ethnic slur": [
+        "Racism"
+    ],
+    "racist joke": [
+        "Racism"
+    ],
+    "racial microaggression": [
+        "Racism"
+    ],
+    "racial tension": [
+        "Racism"
+    ],
+    "sexism": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "gender bias": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "misogyny": [
+        "Sexism"
+    ],
+    "patriarchy": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "male chauvinism": [
+        "Sexism"
+    ],
+    "gender discrimination": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "objectification": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "harassment": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "stereotyping": [
+        "Sexism",
+        "Homophobia"
+    ],
+    "mansplaining": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "manterruption": [
+        "Sexism"
+    ],
+    "toxic masculinity": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "glass ceiling": [
+        "Sexism"
+    ],
+    "male privilege": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "gender pay gap": [
+        "Sexism"
+    ],
+    "sexist jokes": [
+        "Sexism"
+    ],
+    "women's rights": [
+        "Sexism"
+    ],
+    "female oppression": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "male supremacy": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "woman hater": [
+        "Sexism"
+    ],
+    "anti-feminism": [
+        "Sexism"
+    ],
+    "victim blaming": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "gender inequality": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "reproductive rights": [
+        "Sexism"
+    ],
+    "catcalling": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "sexual objectification": [
+        "Sexism"
+    ],
+    "rape culture": [
+        "Sexism"
+    ],
+    "double standards": [
+        "Sexism"
+    ],
+    "workplace discrimination": [
+        "Sexism"
+    ],
+    "sex-based harassment": [
+        "Sexism"
+    ],
+    "male dominance": [
+        "Sexism"
+    ],
+    "gender roles": [
+        "Sexism"
+    ],
+    "###CENSORED###": [
+        "Sexism"
+    ],
+    "gender stereotypes": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "female subordination": [
+        "Sexism"
+    ],
+    "gender violence": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "intimate partner violence": [
+        "Sexism"
+    ],
+    "gender-based violence": [
+        "Sexism",
+        "Misogyny"
+    ],
+    "female genital mutilation": [
+        "Sexism"
+    ],
+    "honor killings": [
+        "Sexism"
+    ],
+    "sexist slurs": [
+        "Sexism"
+    ],
+    "sexist advertising": [
+        "Sexism"
+    ],
+    "media representation of women": [
+        "Sexism"
+    ],
+    "gendered insults": [
+        "Sexism"
+    ],
+    "discrimination against women": [
+        "Sexism"
+    ],
+    "homophobia": [
+        "Homophobia"
+    ],
+    "anti-gay": [
+        "Homophobia"
+    ],
+    "anti-LGBT": [
+        "Homophobia"
+    ],
+    "anti-LGBTQ": [
+        "Homophobia"
+    ],
+    "heterosexism": [
+        "Homophobia"
+    ],
+    "heteronormativity": [
+        "Homophobia"
+    ],
+    "gay bashing": [
+        "Homophobia"
+    ],
+    "lesbian bashing": [
+        "Homophobia"
+    ],
+    "transphobia": [
+        "Homophobia",
+        "Transphobia"
+    ],
+    "biphobia": [
+        "Homophobia"
+    ],
+    "queerphobia": [
+        "Homophobia"
+    ],
+    "slurs": [
+        "Homophobia"
+    ],
+    "marginalization": [
+        "Homophobia"
+    ],
+    "oppression": [
+        "Homophobia"
+    ],
+    "gay agenda": [
+        "Homophobia"
+    ],
+    "homosexual agenda": [
+        "Homophobia"
+    ],
+    "conversion therapy": [
+        "Homophobia"
+    ],
+    "reparative therapy": [
+        "Homophobia"
+    ],
+    "ex-gay movement": [
+        "Homophobia"
+    ],
+    "family values": [
+        "Homophobia"
+    ],
+    "traditional marriage": [
+        "Homophobia"
+    ],
+    "moral decay": [
+        "Homophobia"
+    ],
+    "sinful lifestyle": [
+        "Homophobia"
+    ],
+    "deviant behavior": [
+        "Homophobia"
+    ],
+    "lifestyle choice": [
+        "Homophobia"
+    ],
+    "anti-trans": [
+        "Transphobia"
+    ],
+    "anti-transgender": [
+        "Transphobia"
+    ],
+    "gender-critical": [
+        "Transphobia"
+    ],
+    "TERF": [
+        "Transphobia"
+    ],
+    "trans-exclusionary": [
+        "Transphobia"
+    ],
+    "transphobe": [
+        "Transphobia"
+    ],
+    "misgender": [
+        "Transphobia"
+    ],
+    "deadname": [
+        "Transphobia"
+    ],
+    "bathroom bill": [
+        "Transphobia"
+    ],
+    "biological sex": [
+        "Transphobia"
+    ],
+    "gender ideology": [
+        "Transphobia"
+    ],
+    "gender confusion": [
+        "Transphobia"
+    ],
+    "gender delusion": [
+        "Transphobia"
+    ],
+    "bathroom predator": [
+        "Transphobia"
+    ],
+    "trans agenda": [
+        "Transphobia"
+    ],
+    "gender madness": [
+        "Transphobia"
+    ],
+    "gender denial": [
+        "Transphobia"
+    ],
+    "gender dystopia": [
+        "Transphobia"
+    ],
+    "trans menace": [
+        "Transphobia"
+    ],
+    "transgender hoax": [
+        "Transphobia"
+    ],
+    "gender brainwashing": [
+        "Transphobia"
+    ],
+    "trans lie": [
+        "Transphobia"
+    ],
+    "trans cult": [
+        "Transphobia"
+    ],
+    "ableist": [
+        "Ableism"
+    ],
+    "ableism": [
+        "Ableism"
+    ],
+    "handicapped": [
+        "Ableism"
+    ],
+    "crippled": [
+        "Ableism"
+    ],
+    "lame": [
+        "Ableism"
+    ],
+    "dumb": [
+        "Ableism"
+    ],
+    "deaf-mute": [
+        "Ableism"
+    ],
+    "wheelchair-bound": [
+        "Ableism"
+    ],
+    "retarded": [
+        "Ableism"
+    ],
+    "spastic": [
+        "Ableism"
+    ],
+    "invalid": [
+        "Ableism"
+    ],
+    "mental retardation": [
+        "Ableism"
+    ],
+    "idiot": [
+        "Ableism"
+    ],
+    "moron": [
+        "Ableism"
+    ],
+    "feebleminded": [
+        "Ableism"
+    ],
+    "imbecile": [
+        "Ableism"
+    ],
+    "vegetable": [
+        "Ableism"
+    ],
+    "mute": [
+        "Ableism"
+    ],
+    "slow": [
+        "Ableism"
+    ],
+    "handicap": [
+        "Ableism"
+    ],
+    "special needs": [
+        "Ableism"
+    ],
+    "learning disability": [
+        "Ableism"
+    ],
+    "blind to": [
+        "Ableism"
+    ],
+    "deaf to": [
+        "Ableism"
+    ],
+    "deformed": [
+        "Ableism"
+    ],
+    "differently abled": [
+        "Ableism"
+    ],
+    "physically challenged": [
+        "Ableism"
+    ],
+    "mentally challenged": [
+        "Ableism"
+    ],
+    "crip": [
+        "Ableism"
+    ],
+    "gimp": [
+        "Ableism"
+    ],
+    "lunatic": [
+        "Ableism"
+    ],
+    "maniac": [
+        "Ableism"
+    ],
+    "nuts": [
+        "Ableism"
+    ],
+    "psycho": [
+        "Ableism"
+    ],
+    "schizo": [
+        "Ableism"
+    ],
+    "spaz": [
+        "Ableism"
+    ],
+    "crazy": [
+        "Ableism"
+    ],
+    "insane": [
+        "Ableism"
+    ],
+    "handi-capable": [
+        "Ableism"
+    ],
+    "special": [
+        "Ableism"
+    ],
+    "chauvinism": [
+        "Misogyny"
+    ],
+    "misogynist": [
+        "Misogyny"
+    ],
+    "woman-hater": [
+        "Misogyny"
+    ],
+    "oppression of women": [
+        "Misogyny"
+    ],
+    "silencing women": [
+        "Misogyny"
+    ],
+    "demeaning women": [
+        "Misogyny"
+    ],
+    "gender oppression": [
+        "Misogyny"
+    ],
+    "women's rights violation": [
+        "Misogyny"
+    ],
+    "commit suicide": [
+        "Suicide"
+    ],
+    "attempt suicide": [
+        "Suicide"
+    ],
+    "suicidal": [
+        "Suicide"
+    ],
+    "suicidal thoughts": [
+        "Suicide"
+    ],
+    "suicidal ideation": [
+        "Suicide"
+    ],
+    "self-inflicted": [
+        "Suicide"
+    ],
+    "take my life": [
+        "Suicide"
+    ],
+    "end my life": [
+        "Suicide"
+    ],
+    "kill myself": [
+        "Suicide"
+    ],
+    "want to die": [
+        "Suicide"
+    ],
+    "wish to die": [
+        "Suicide"
+    ],
+    "depression": [
+        "Suicide"
+    ],
+    "hopelessness": [
+        "Suicide"
+    ],
+    "life is pointless": [
+        "Suicide"
+    ],
+    "give up on life": [
+        "Suicide"
+    ],
+    "no reason to live": [
+        "Suicide"
+    ],
+    "overdose": [
+        "Suicide"
+    ],
+    "pills": [
+        "Suicide"
+    ],
+    "hang myself": [
+        "Suicide"
+    ],
+    "jump off": [
+        "Suicide"
+    ],
+    "bridge": [
+        "Suicide"
+    ],
+    "cliff": [
+        "Suicide"
+    ],
+    "poison": [
+        "Suicide"
+    ],
+    "lethal dose": [
+        "Suicide"
+    ],
+    "suffocate": [
+        "Suicide"
+    ],
+    "carbon monoxide": [
+        "Suicide"
+    ],
+    "razor blade": [
+        "Suicide"
+    ],
+    "cut myself": [
+        "Suicide"
+    ],
+    "cutting": [
+        "Suicide"
+    ],
+    "bleeding": [
+        "Suicide"
+    ],
+    "dying": [
+        "Suicide"
+    ],
+    "death wish": [
+        "Suicide"
+    ],
+    "end it all": [
+        "Suicide"
+    ],
+    "crisis hotline": [
+        "Suicide"
+    ],
+    "help me": [
+        "Suicide"
+    ],
+    "therapy": [
+        "Suicide"
+    ],
+    "counseling": [
+        "Suicide"
+    ],
+    "psychiatrist": [
+        "Suicide"
+    ],
+    "mental health": [
+        "Suicide"
+    ],
+    "support group": [
+        "Suicide"
+    ],
+    "survivor": [
+        "Suicide"
+    ],
+    "prevention": [
+        "Suicide"
+    ],
+    "save a life": [
+        "Suicide"
+    ],
+    "talk to someone": [
+        "Suicide"
+    ],
+    "reach out": [
+        "Suicide"
     ]
 }
