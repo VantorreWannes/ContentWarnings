@@ -17,8 +17,8 @@
     },
   
     "web_accessible_resources": [
-      "data/data.json",
-      "data/categories.json"
+      "data/flag_phrases.json",
+      "data/content_categories.json"
     ]
   }
   
