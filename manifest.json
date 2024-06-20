@@ -17,7 +17,7 @@
   },
   "web_accessible_resources": [
     {
-      "resources": ["src/data/flag_phrases.json", "src/data/content_categories.json"],
+      "resources": ["dist/data/flag_phrases.json", "dist/data/content_categories.json"],
       "matches": ["<all_urls>"]
     }
   ]
