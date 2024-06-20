@@ -6,19 +6,19 @@ def flatten(matrix):
     return [item for row in matrix for item in row]
 
 def raw_data_to_flag_phrases(raw_data):
-    all_flag_phrases = flatten([data["words"] for data in raw_data])
-    result = {phrase: [] for phrase in all_flag_phrases if phrase not in FILTER}
+    all_phrases = flatten([content_category["words"] for content_category in raw_data])
+    result = {phrase: [] for phrase in all_phrases}
     for content_category in raw_data:
         name = content_category["name"]
-        for flag_phrase in content_category["words"]:
-            if flag_phrase not in FILTER and name not in result[flag_phrase]:
-                result[flag_phrase].append(name)
-    return result
+        for word in content_category["words"]:
+            if word not in FILTER:
+                result[word].append(name)
+    return [{"phrase": k, "categories": v} for k, v in result.items()]
 
 def main(): 
-    with open("src/data/raw_data.json") as f:
+    with open("dist/data/raw_data.json") as f:
         raw_data = json.load(f)
-    with open("src/data/flag_phrases.json", "w") as f:
+    with open("dist/data/flag_phrases.json", "w") as f:
         json.dump(raw_data_to_flag_phrases(raw_data), f)   
 
 if __name__ == "__main__":

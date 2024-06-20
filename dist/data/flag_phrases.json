@@ -1,2148 +1,4219 @@
-{
-    "assault": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "attack": [
-        "Violence"
-    ],
-    "beating": [
-        "Violence"
-    ],
-    "bloodshed": [
-        "Violence",
-        "Gore"
-    ],
-    "brutality": [
-        "Violence",
-        "Gore"
-    ],
-    "bullying": [
-        "Violence"
-    ],
-    "clash": [
-        "Violence"
-    ],
-    "combat": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "conflict": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "crime": [
-        "Violence"
-    ],
-    "cruelty": [
-        "Violence"
-    ],
-    "destruction": [
-        "Violence"
-    ],
-    "fight": [
-        "Violence"
-    ],
-    "force": [
-        "Violence"
-    ],
-    "genocide": [
-        "Violence",
-        "Graphic Images",
-        "Hate Speech",
-        "Racism"
-    ],
-    "harm": [
-        "Violence"
-    ],
-    "homicide": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "hostility": [
-        "Violence",
-        "Hate Speech"
-    ],
-    "injury": [
-        "Violence"
-    ],
-    "kill": [
-        "Violence"
-    ],
-    "lynching": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "murder": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "riot": [
-        "Violence"
-    ],
-    "shooting": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "slaughter": [
-        "Violence",
-        "Gore"
-    ],
-    "terrorism": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "torture": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "vandalism": [
-        "Violence"
-    ],
-    "war": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "wound": [
-        "Violence"
-    ],
-    "abuse": [
-        "Violence",
-        "Graphic Images",
-        "Profanity",
-        "Misogyny"
-    ],
-    "aggression": [
-        "Violence"
-    ],
-    "battle": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "brawl": [
-        "Violence"
-    ],
-    "carnage": [
-        "Violence",
-        "Gore"
-    ],
-    "danger": [
-        "Violence"
-    ],
-    "death": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "duel": [
-        "Violence"
-    ],
-    "explosion": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "fisticuffs": [
-        "Violence"
-    ],
-    "fray": [
-        "Violence"
-    ],
-    "invasion": [
-        "Violence"
-    ],
-    "lynch": [
-        "Violence"
-    ],
-    "massacre": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "mayhem": [
-        "Violence",
-        "Gore"
-    ],
-    "melee": [
-        "Violence"
-    ],
-    "mutiny": [
-        "Violence"
-    ],
-    "onslaught": [
-        "Violence"
-    ],
-    "outbreak": [
-        "Violence"
-    ],
-    "pillage": [
-        "Violence"
-    ],
-    "punch": [
-        "Violence"
-    ],
-    "raid": [
-        "Violence"
-    ],
-    "rebellion": [
-        "Violence"
-    ],
-    "revolt": [
-        "Violence"
-    ],
-    "robbery": [
-        "Violence"
-    ],
-    "siege": [
-        "Violence"
-    ],
-    "skirmish": [
-        "Violence"
-    ],
-    "slay": [
-        "Violence"
-    ],
-    "snipe": [
-        "Violence"
-    ],
-    "stabbing": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "strangulation": [
-        "Violence"
-    ],
-    "strife": [
-        "Violence"
-    ],
-    "strike": [
-        "Violence"
-    ],
-    "subjugation": [
-        "Violence",
-        "Misogyny"
-    ],
-    "trouble": [
-        "Violence"
-    ],
-    "uprising": [
-        "Violence"
-    ],
-    "vengeance": [
-        "Violence"
-    ],
-    "wrath": [
-        "Violence"
-    ],
-    "battery": [
-        "Violence"
-    ],
-    "incitement": [
-        "Violence",
-        "Hate Speech"
-    ],
-    "molestation": [
-        "Violence"
-    ],
-    "intimidation": [
-        "Violence"
-    ],
-    "ravage": [
-        "Violence"
-    ],
-    "beatings": [
-        "Violence"
-    ],
-    "homicides": [
-        "Violence"
-    ],
-    "lynchings": [
-        "Violence"
-    ],
-    "riots": [
-        "Violence"
-    ],
-    "shootings": [
-        "Violence"
-    ],
-    "massacres": [
-        "Violence"
-    ],
-    "mayhems": [
-        "Violence"
-    ],
-    "onslaughts": [
-        "Violence"
-    ],
-    "outbreaks": [
-        "Violence"
-    ],
-    "robberies": [
-        "Violence"
-    ],
-    "sieges": [
-        "Violence"
-    ],
-    "skirmishes": [
-        "Violence"
-    ],
-    "slayings": [
-        "Violence"
-    ],
-    "strangulations": [
-        "Violence"
-    ],
-    "strikes": [
-        "Violence"
-    ],
-    "subjugations": [
-        "Violence"
-    ],
-    "uprisings": [
-        "Violence"
-    ],
-    "vengeances": [
-        "Violence"
-    ],
-    "atrocities": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "battering": [
-        "Violence"
-    ],
-    "bombardment": [
-        "Violence"
-    ],
-    "dismemberment": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "mutilation": [
-        "Violence",
-        "Graphic Images",
-        "Gore"
-    ],
-    "hostage-taking": [
-        "Violence"
-    ],
-    "terrorist attack": [
-        "Violence"
-    ],
-    "gang violence": [
-        "Violence"
-    ],
-    "domestic violence": [
-        "Violence",
-        "Graphic Images",
-        "Sexism",
-        "Misogyny"
-    ],
-    "armed robbery": [
-        "Violence"
-    ],
-    "mob violence": [
-        "Violence"
-    ],
-    "street fight": [
-        "Violence"
-    ],
-    "drive-by shooting": [
-        "Violence"
-    ],
-    "violent protest": [
-        "Violence"
-    ],
-    "racial violence": [
-        "Violence",
-        "Racism"
-    ],
-    "sexual assault": [
-        "Violence"
-    ],
-    "child abuse": [
-        "Violence",
-        "Graphic Images"
-    ],
-    "honor killing": [
-        "Violence"
-    ],
-    "violent crime": [
-        "Violence"
-    ],
-    "violent act": [
-        "Violence"
-    ],
-    "violent behavior": [
-        "Violence"
-    ],
-    "blood": [
-        "Graphic Images",
-        "Gore",
-        "Suicide"
-    ],
-    "gore": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "violence": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "wounds": [
-        "Graphic Images"
-    ],
-    "injuries": [
-        "Graphic Images"
-    ],
-    "decapitation": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "crime scene": [
-        "Graphic Images"
-    ],
-    "autopsy": [
-        "Graphic Images"
-    ],
-    "cadaver": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "corpse": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "dead body": [
-        "Graphic Images"
-    ],
-    "execution": [
-        "Graphic Images"
-    ],
-    "self-harm": [
-        "Graphic Images",
-        "Suicide"
-    ],
-    "suicide": [
-        "Graphic Images",
-        "Suicide"
-    ],
-    "beheading": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "rape": [
-        "Graphic Images"
-    ],
-    "animal cruelty": [
-        "Graphic Images"
-    ],
-    "animal abuse": [
-        "Graphic Images"
-    ],
-    "roadkill": [
-        "Graphic Images"
-    ],
-    "accident": [
-        "Graphic Images"
-    ],
-    "disaster": [
-        "Graphic Images"
-    ],
-    "natural disaster": [
-        "Graphic Images"
-    ],
-    "famine": [
-        "Graphic Images"
-    ],
-    "starvation": [
-        "Graphic Images"
-    ],
-    "decomposed body": [
-        "Graphic Images"
-    ],
-    "burned body": [
-        "Graphic Images"
-    ],
-    "burn wounds": [
-        "Graphic Images"
-    ],
-    "charred remains": [
-        "Graphic Images"
-    ],
-    "drowning": [
-        "Graphic Images"
-    ],
-    "suffocation": [
-        "Graphic Images"
-    ],
-    "poisoning": [
-        "Graphic Images"
-    ],
-    "hanging": [
-        "Graphic Images"
-    ],
-    "bludgeoning": [
-        "Graphic Images",
-        "Gore"
-    ],
-    "cannibalism": [
-        "Graphic Images"
-    ],
-    "mass shooting": [
-        "Graphic Images"
-    ],
-    "war crimes": [
-        "Graphic Images"
-    ],
-    "pedophilia": [
-        "Graphic Images"
-    ],
-    "bestiality": [
-        "Graphic Images"
-    ],
-    "necrophilia": [
-        "Graphic Images"
-    ],
-    "guts": [
-        "Gore"
-    ],
-    "gruesome": [
-        "Gore"
-    ],
-    "gory": [
-        "Gore"
-    ],
-    "horrific": [
-        "Gore"
-    ],
-    "macabre": [
-        "Gore"
-    ],
-    "savage": [
-        "Gore"
-    ],
-    "butchery": [
-        "Gore"
-    ],
-    "grizzly": [
-        "Gore"
-    ],
-    "maiming": [
-        "Gore"
-    ],
-    "gruesomeness": [
-        "Gore"
-    ],
-    "grisliness": [
-        "Gore"
-    ],
-    "mass killing": [
-        "Gore"
-    ],
-    "horror": [
-        "Gore"
-    ],
-    "extermination": [
-        "Gore"
-    ],
-    "savageness": [
-        "Gore"
-    ],
-    "butchering": [
-        "Gore"
-    ],
-    "slaying": [
-        "Gore"
-    ],
-    "bloodbath": [
-        "Gore"
-    ],
-    "bloodletting": [
-        "Gore"
-    ],
-    "grisly": [
-        "Gore"
-    ],
-    "violent": [
-        "Gore"
-    ],
-    "deadly": [
-        "Gore"
-    ],
-    "gruesome death": [
-        "Gore"
-    ],
-    "gruesome injury": [
-        "Gore"
-    ],
-    "bloody": [
-        "Gore",
-        "Profanity"
-    ],
-    "violent death": [
-        "Gore"
-    ],
-    "violent injury": [
-        "Gore"
-    ],
-    "sanguinary": [
-        "Gore"
-    ],
-    "morbid": [
-        "Gore"
-    ],
-    "suffering": [
-        "Gore"
-    ],
-    "harrowing": [
-        "Gore"
-    ],
-    "heinous": [
-        "Gore"
-    ],
-    "atrocity": [
-        "Gore"
-    ],
-    "abomination": [
-        "Gore"
-    ],
-    "impaling": [
-        "Gore"
-    ],
-    "evisceration": [
-        "Gore"
-    ],
-    "disembowelment": [
-        "Gore"
-    ],
-    "slicing": [
-        "Gore"
-    ],
-    "skinning": [
-        "Gore"
-    ],
-    "torn apart": [
-        "Gore"
-    ],
-    "smashed": [
-        "Gore"
-    ],
-    "crushed": [
-        "Gore"
-    ],
-    "bashed": [
-        "Gore"
-    ],
-    "laceration": [
-        "Gore"
-    ],
-    "brutal": [
-        "Gore"
-    ],
-    "naked": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "nude": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "bare": [
-        "Nudity"
-    ],
-    "unclothed": [
-        "Nudity"
-    ],
-    "undressed": [
-        "Nudity"
-    ],
-    "topless": [
-        "Nudity"
-    ],
-    "bottomless": [
-        "Nudity"
-    ],
-    "stripped": [
-        "Nudity"
-    ],
-    "exposed": [
-        "Nudity"
-    ],
-    "skin": [
-        "Nudity"
-    ],
-    "birthday suit": [
-        "Nudity"
-    ],
-    "buff": [
-        "Nudity"
-    ],
-    "stark naked": [
-        "Nudity"
-    ],
-    "au naturel": [
-        "Nudity"
-    ],
-    "in the buff": [
-        "Nudity"
-    ],
-    "bare-assed": [
-        "Nudity"
-    ],
-    "bare-chested": [
-        "Nudity"
-    ],
-    "bare-breasted": [
-        "Nudity"
-    ],
-    "barefoot": [
-        "Nudity"
-    ],
-    "disrobed": [
-        "Nudity"
-    ],
-    "in the raw": [
-        "Nudity"
-    ],
-    "uncovered": [
-        "Nudity"
-    ],
-    "revealed": [
-        "Nudity"
-    ],
-    "unveiled": [
-        "Nudity"
-    ],
-    "flashing": [
-        "Nudity"
-    ],
-    "moon": [
-        "Nudity"
-    ],
-    "moonlight": [
-        "Nudity"
-    ],
-    "streaking": [
-        "Nudity"
-    ],
-    "stripping": [
-        "Nudity"
-    ],
-    "undressing": [
-        "Nudity"
-    ],
-    "peep show": [
-        "Nudity"
-    ],
-    "lewd": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "erotic": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "sensual": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "provocative": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "adult content": [
-        "Nudity"
-    ],
-    "pornographic": [
-        "Nudity"
-    ],
-    "explicit": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "obscene": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "sexual content": [
-        "Nudity"
-    ],
-    "softcore": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "hardcore": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "racy": [
-        "Nudity"
-    ],
-    "risqué": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "voyeur": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "voyeurism": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "scantily clad": [
-        "Nudity"
-    ],
-    "skimpy": [
-        "Nudity"
-    ],
-    "revealing": [
-        "Nudity"
-    ],
-    "see-through": [
-        "Nudity"
-    ],
-    "transparent": [
-        "Nudity"
-    ],
-    "sheer": [
-        "Nudity"
-    ],
-    "NSFW": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "graphic content": [
-        "Nudity"
-    ],
-    "seductive": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "suggestive": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "teasing": [
-        "Nudity"
-    ],
-    "erotica": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "striptease": [
-        "Nudity"
-    ],
-    "burlesque": [
-        "Nudity"
-    ],
-    "pin-up": [
-        "Nudity"
-    ],
-    "centerfold": [
-        "Nudity"
-    ],
-    "sensuality": [
-        "Nudity"
-    ],
-    "nudism": [
-        "Nudity"
-    ],
-    "naturism": [
-        "Nudity"
-    ],
-    "topless beach": [
-        "Nudity"
-    ],
-    "nudist": [
-        "Nudity"
-    ],
-    "nudist colony": [
-        "Nudity"
-    ],
-    "nude beach": [
-        "Nudity"
-    ],
-    "exhibitionism": [
-        "Nudity",
-        "Sexual Content"
-    ],
-    "flasher": [
-        "Nudity"
-    ],
-    "bare skin": [
-        "Nudity"
-    ],
-    "revealing clothes": [
-        "Nudity"
-    ],
-    "skimpy outfit": [
-        "Nudity"
-    ],
-    "undergarments": [
-        "Nudity"
-    ],
-    "lingerie": [
-        "Nudity"
-    ],
-    "swimwear": [
-        "Nudity"
-    ],
-    "nipple": [
-        "Nudity"
-    ],
-    "genitals": [
-        "Nudity"
-    ],
-    "private parts": [
-        "Nudity"
-    ],
-    "erogenous zones": [
-        "Nudity"
-    ],
-    "body parts": [
-        "Nudity"
-    ],
-    "strip club": [
-        "Nudity"
-    ],
-    "adult entertainment": [
-        "Nudity"
-    ],
-    "erotic art": [
-        "Nudity"
-    ],
-    "body painting": [
-        "Nudity"
-    ],
-    "nude photography": [
-        "Nudity"
-    ],
-    "erotic literature": [
-        "Nudity"
-    ],
-    "adult": [
-        "Sexual Content"
-    ],
-    "porn": [
-        "Sexual Content"
-    ],
-    "sex": [
-        "Sexual Content"
-    ],
-    "xxx": [
-        "Sexual Content"
-    ],
-    "intimate": [
-        "Sexual Content"
-    ],
-    "fetish": [
-        "Sexual Content"
-    ],
-    "strip": [
-        "Sexual Content"
-    ],
-    "prostitute": [
-        "Sexual Content"
-    ],
-    "escort": [
-        "Sexual Content"
-    ],
-    "brothel": [
-        "Sexual Content"
-    ],
-    "incest": [
-        "Sexual Content"
-    ],
-    "orgasm": [
-        "Sexual Content"
-    ],
-    "masturbate": [
-        "Sexual Content"
-    ],
-    "foreplay": [
-        "Sexual Content"
-    ],
-    "seduction": [
-        "Sexual Content"
-    ],
-    "aphrodisiac": [
-        "Sexual Content"
-    ],
-    "libido": [
-        "Sexual Content"
-    ],
-    "sexuality": [
-        "Sexual Content"
-    ],
-    "kama sutra": [
-        "Sexual Content"
-    ],
-    "orgy": [
-        "Sexual Content"
-    ],
-    "swinger": [
-        "Sexual Content"
-    ],
-    "polyamory": [
-        "Sexual Content"
-    ],
-    "bdsm": [
-        "Sexual Content"
-    ],
-    "bondage": [
-        "Sexual Content"
-    ],
-    "dominatrix": [
-        "Sexual Content"
-    ],
-    "submission": [
-        "Sexual Content"
-    ],
-    "kink": [
-        "Sexual Content"
-    ],
-    "lascivious": [
-        "Sexual Content"
-    ],
-    "lust": [
-        "Sexual Content"
-    ],
-    "sensuous": [
-        "Sexual Content"
-    ],
-    "tantalizing": [
-        "Sexual Content"
-    ],
-    "temptation": [
-        "Sexual Content"
-    ],
-    "erogenous": [
-        "Sexual Content"
-    ],
-    "sultry": [
-        "Sexual Content"
-    ],
-    "titillating": [
-        "Sexual Content"
-    ],
-    "alluring": [
-        "Sexual Content"
-    ],
-    "scandalous": [
-        "Sexual Content"
-    ],
-    "raunchy": [
-        "Sexual Content"
-    ],
-    "bastard": [
-        "Profanity"
-    ],
-    "bitch": [
-        "Profanity"
-    ],
-    "bollocks": [
-        "Profanity"
-    ],
-    "bugger": [
-        "Profanity"
-    ],
-    "bullshit": [
-        "Profanity"
-    ],
-    "crap": [
-        "Profanity"
-    ],
-    "cunt": [
-        "Profanity"
-    ],
-    "damn": [
-        "Profanity"
-    ],
-    "dick": [
-        "Profanity"
-    ],
-    "douche": [
-        "Profanity"
-    ],
-    "fuck": [
-        "Profanity"
-    ],
-    "motherfucker": [
-        "Profanity"
-    ],
-    "piss": [
-        "Profanity"
-    ],
-    "prick": [
-        "Profanity"
-    ],
-    "shit": [
-        "Profanity"
-    ],
-    "slut": [
-        "Profanity"
-    ],
-    "twat": [
-        "Profanity"
-    ],
-    "hell": [
-        "Profanity"
-    ],
-    "ass": [
-        "Profanity"
-    ],
-    "freak": [
-        "Profanity",
-        "Ableism"
-    ],
-    "jerk": [
-        "Profanity"
-    ],
-    "suck": [
-        "Profanity"
-    ],
-    "freaking": [
-        "Profanity"
-    ],
-    "fricking": [
-        "Profanity"
-    ],
-    "heck": [
-        "Profanity"
-    ],
-    "Among Us": [
-        "Among Us"
-    ],
-    "sus": [
-        "Among Us"
-    ],
-    "impostor": [
-        "Among Us"
-    ],
-    "crewmate": [
-        "Among Us"
-    ],
-    "eject": [
-        "Among Us"
-    ],
-    "vent": [
-        "Among Us"
-    ],
-    "task": [
-        "Among Us"
-    ],
-    "sabotage": [
-        "Among Us"
-    ],
-    "emergency meeting": [
-        "Among Us"
-    ],
-    "discussion": [
-        "Among Us"
-    ],
-    "vote": [
-        "Among Us"
-    ],
-    "skip vote": [
-        "Among Us"
-    ],
-    "electrical": [
-        "Among Us"
-    ],
-    "medbay": [
-        "Among Us"
-    ],
-    "cafeteria": [
-        "Among Us"
-    ],
-    "navigation": [
-        "Among Us"
-    ],
-    "admin": [
-        "Among Us"
-    ],
-    "security": [
-        "Among Us"
-    ],
-    "reactor": [
-        "Among Us"
-    ],
-    "shields": [
-        "Among Us"
-    ],
-    "lower engine": [
-        "Among Us"
-    ],
-    "upper engine": [
-        "Among Us"
-    ],
-    "weapons": [
-        "Among Us"
-    ],
-    "communications": [
-        "Among Us"
-    ],
-    "storage": [
-        "Among Us"
-    ],
-    "task bar": [
-        "Among Us"
-    ],
-    "visual task": [
-        "Among Us"
-    ],
-    "scan": [
-        "Among Us"
-    ],
-    "swipe card": [
-        "Among Us"
-    ],
-    "wires": [
-        "Among Us"
-    ],
-    "divert power": [
-        "Among Us"
-    ],
-    "fuel engines": [
-        "Among Us"
-    ],
-    "fix lights": [
-        "Among Us"
-    ],
-    "prime shields": [
-        "Among Us"
-    ],
-    "clear asteroids": [
-        "Among Us"
-    ],
-    "inspect sample": [
-        "Among Us"
-    ],
-    "submit scan": [
-        "Among Us"
-    ],
-    "empty garbage": [
-        "Among Us"
-    ],
-    "empty chute": [
-        "Among Us"
-    ],
-    "align engine output": [
-        "Among Us"
-    ],
-    "calibrate distributor": [
-        "Among Us"
-    ],
-    "start reactor": [
-        "Among Us"
-    ],
-    "unlock manifolds": [
-        "Among Us"
-    ],
-    "clean O2 filter": [
-        "Among Us"
-    ],
-    "stabilize steering": [
-        "Among Us"
-    ],
-    "chart course": [
-        "Among Us"
-    ],
-    "accept diverted power": [
-        "Among Us"
-    ],
-    "monitor tree": [
-        "Among Us"
-    ],
-    "fix wiring": [
-        "Among Us"
-    ],
-    "secure boarding pass": [
-        "Among Us"
-    ],
-    "scan boarding pass": [
-        "Among Us"
-    ],
-    "decontaminate": [
-        "Among Us"
-    ],
-    "water plants": [
-        "Among Us"
-    ],
-    "enter ID code": [
-        "Among Us"
-    ],
-    "empty trash": [
-        "Among Us"
-    ],
-    "replace water jug": [
-        "Among Us"
-    ],
-    "assemble artifact": [
-        "Among Us"
-    ],
-    "sort samples": [
-        "Among Us"
-    ],
-    "record temperature": [
-        "Among Us"
-    ],
-    "open waterways": [
-        "Among Us"
-    ],
-    "reset seismic stabilizers": [
-        "Among Us"
-    ],
-    "fix weather node": [
-        "Among Us"
-    ],
-    "polus": [
-        "Among Us"
-    ],
-    "mira HQ": [
-        "Among Us"
-    ],
-    "skeld": [
-        "Among Us"
-    ],
-    "airship": [
-        "Among Us"
-    ],
-    "meeting room": [
-        "Among Us"
-    ],
-    "gap room": [
-        "Among Us"
-    ],
-    "cockpit": [
-        "Among Us"
-    ],
-    "engine room": [
-        "Among Us"
-    ],
-    "brig": [
-        "Among Us"
-    ],
-    "main hall": [
-        "Among Us"
-    ],
-    "medical": [
-        "Among Us"
-    ],
-    "armory": [
-        "Among Us"
-    ],
-    "cargo bay": [
-        "Among Us"
-    ],
-    "records": [
-        "Among Us"
-    ],
-    "showers": [
-        "Among Us"
-    ],
-    "lounge": [
-        "Among Us"
-    ],
-    "vault": [
-        "Among Us"
-    ],
-    "ventilation": [
-        "Among Us"
-    ],
-    "communications sabotage": [
-        "Among Us"
-    ],
-    "reactor meltdown": [
-        "Among Us"
-    ],
-    "oxygen depletion": [
-        "Among Us"
-    ],
-    "fix comms": [
-        "Among Us"
-    ],
-    "clear leaves": [
-        "Among Us"
-    ],
-    "download data": [
-        "Among Us"
-    ],
-    "upload data": [
-        "Among Us"
-    ],
-    "racist": [
-        "Hate Speech",
-        "Racism"
-    ],
-    "bigot": [
-        "Hate Speech"
-    ],
-    "xenophobic": [
-        "Hate Speech"
-    ],
-    "homophobic": [
-        "Hate Speech"
-    ],
-    "transphobic": [
-        "Hate Speech",
-        "Transphobia"
-    ],
-    "antisemitic": [
-        "Hate Speech"
-    ],
-    "sexist": [
-        "Hate Speech",
-        "Sexism"
-    ],
-    "supremacist": [
-        "Hate Speech"
-    ],
-    "hate group": [
-        "Hate Speech"
-    ],
-    "hate crime": [
-        "Hate Speech",
-        "Racism",
-        "Homophobia"
-    ],
-    "ethnic cleansing": [
-        "Hate Speech",
-        "Racism"
-    ],
-    "white power": [
-        "Hate Speech"
-    ],
-    "neo-nazi": [
-        "Hate Speech",
-        "Racism"
-    ],
-    "slur": [
-        "Hate Speech"
-    ],
-    "discrimination": [
-        "Hate Speech",
-        "Racism",
-        "Homophobia"
-    ],
-    "intolerance": [
-        "Hate Speech",
-        "Homophobia"
-    ],
-    "prejudice": [
-        "Hate Speech",
-        "Racism",
-        "Homophobia"
-    ],
-    "hate speech": [
-        "Hate Speech",
-        "Racism",
-        "Homophobia"
-    ],
-    "violent extremism": [
-        "Hate Speech"
-    ],
-    "radicalization": [
-        "Hate Speech"
-    ],
-    "hate propaganda": [
-        "Hate Speech"
-    ],
-    "hate rhetoric": [
-        "Hate Speech"
-    ],
-    "derogatory": [
-        "Hate Speech"
-    ],
-    "pejorative": [
-        "Hate Speech"
-    ],
-    "hate mongering": [
-        "Hate Speech"
-    ],
-    "misogynistic": [
-        "Hate Speech"
-    ],
-    "dehumanization": [
-        "Hate Speech"
-    ],
-    "racial slur": [
-        "Racism"
-    ],
-    "racially charged": [
-        "Racism"
-    ],
-    "racial profiling": [
-        "Racism"
-    ],
-    "white supremacy": [
-        "Racism"
-    ],
-    "xenophobia": [
-        "Racism"
-    ],
-    "bigotry": [
-        "Racism",
-        "Homophobia"
-    ],
-    "anti-immigrant": [
-        "Racism"
-    ],
-    "segregation": [
-        "Racism"
-    ],
-    "apartheid": [
-        "Racism"
-    ],
-    "racial inequality": [
-        "Racism"
-    ],
-    "racism": [
-        "Racism"
-    ],
-    "racial hatred": [
-        "Racism"
-    ],
-    "systemic racism": [
-        "Racism"
-    ],
-    "racial bias": [
-        "Racism"
-    ],
-    "institutional racism": [
-        "Racism"
-    ],
-    "ethnocentrism": [
-        "Racism"
-    ],
-    "racial superiority": [
-        "Racism"
-    ],
-    "white nationalist": [
-        "Racism"
-    ],
-    "racial stereotype": [
-        "Racism"
-    ],
-    "racial injustice": [
-        "Racism"
-    ],
-    "colorism": [
-        "Racism"
-    ],
-    "race-based": [
-        "Racism"
-    ],
-    "anti-Semitism": [
-        "Racism"
-    ],
-    "anti-blackness": [
-        "Racism"
-    ],
-    "anti-Asian": [
-        "Racism"
-    ],
-    "anti-Hispanic": [
-        "Racism"
-    ],
-    "anti-Indigenous": [
-        "Racism"
-    ],
-    "racial insult": [
-        "Racism"
-    ],
-    "ethnic slur": [
-        "Racism"
-    ],
-    "racist joke": [
-        "Racism"
-    ],
-    "racial microaggression": [
-        "Racism"
-    ],
-    "racial tension": [
-        "Racism"
-    ],
-    "sexism": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "gender bias": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "misogyny": [
-        "Sexism"
-    ],
-    "patriarchy": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "male chauvinism": [
-        "Sexism"
-    ],
-    "gender discrimination": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "objectification": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "harassment": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "stereotyping": [
-        "Sexism",
-        "Homophobia"
-    ],
-    "mansplaining": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "manterruption": [
-        "Sexism"
-    ],
-    "toxic masculinity": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "glass ceiling": [
-        "Sexism"
-    ],
-    "male privilege": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "gender pay gap": [
-        "Sexism"
-    ],
-    "sexist jokes": [
-        "Sexism"
-    ],
-    "women's rights": [
-        "Sexism"
-    ],
-    "female oppression": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "male supremacy": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "woman hater": [
-        "Sexism"
-    ],
-    "anti-feminism": [
-        "Sexism"
-    ],
-    "victim blaming": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "gender inequality": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "reproductive rights": [
-        "Sexism"
-    ],
-    "catcalling": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "sexual objectification": [
-        "Sexism"
-    ],
-    "rape culture": [
-        "Sexism"
-    ],
-    "double standards": [
-        "Sexism"
-    ],
-    "workplace discrimination": [
-        "Sexism"
-    ],
-    "sex-based harassment": [
-        "Sexism"
-    ],
-    "male dominance": [
-        "Sexism"
-    ],
-    "gender roles": [
-        "Sexism"
-    ],
-    "gender stereotypes": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "female subordination": [
-        "Sexism"
-    ],
-    "gender violence": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "intimate partner violence": [
-        "Sexism"
-    ],
-    "gender-based violence": [
-        "Sexism",
-        "Misogyny"
-    ],
-    "female genital mutilation": [
-        "Sexism"
-    ],
-    "honor killings": [
-        "Sexism"
-    ],
-    "sexist slurs": [
-        "Sexism"
-    ],
-    "sexist advertising": [
-        "Sexism"
-    ],
-    "media representation of women": [
-        "Sexism"
-    ],
-    "gendered insults": [
-        "Sexism"
-    ],
-    "discrimination against women": [
-        "Sexism"
-    ],
-    "homophobia": [
-        "Homophobia"
-    ],
-    "anti-gay": [
-        "Homophobia"
-    ],
-    "anti-LGBT": [
-        "Homophobia"
-    ],
-    "anti-LGBTQ": [
-        "Homophobia"
-    ],
-    "heterosexism": [
-        "Homophobia"
-    ],
-    "heteronormativity": [
-        "Homophobia"
-    ],
-    "gay bashing": [
-        "Homophobia"
-    ],
-    "lesbian bashing": [
-        "Homophobia"
-    ],
-    "transphobia": [
-        "Homophobia",
-        "Transphobia"
-    ],
-    "biphobia": [
-        "Homophobia"
-    ],
-    "queerphobia": [
-        "Homophobia"
-    ],
-    "slurs": [
-        "Homophobia"
-    ],
-    "marginalization": [
-        "Homophobia"
-    ],
-    "oppression": [
-        "Homophobia"
-    ],
-    "gay agenda": [
-        "Homophobia"
-    ],
-    "homosexual agenda": [
-        "Homophobia"
-    ],
-    "conversion therapy": [
-        "Homophobia"
-    ],
-    "reparative therapy": [
-        "Homophobia"
-    ],
-    "ex-gay movement": [
-        "Homophobia"
-    ],
-    "family values": [
-        "Homophobia"
-    ],
-    "traditional marriage": [
-        "Homophobia"
-    ],
-    "moral decay": [
-        "Homophobia"
-    ],
-    "sinful lifestyle": [
-        "Homophobia"
-    ],
-    "deviant behavior": [
-        "Homophobia"
-    ],
-    "lifestyle choice": [
-        "Homophobia"
-    ],
-    "anti-trans": [
-        "Transphobia"
-    ],
-    "anti-transgender": [
-        "Transphobia"
-    ],
-    "gender-critical": [
-        "Transphobia"
-    ],
-    "TERF": [
-        "Transphobia"
-    ],
-    "trans-exclusionary": [
-        "Transphobia"
-    ],
-    "transphobe": [
-        "Transphobia"
-    ],
-    "misgender": [
-        "Transphobia"
-    ],
-    "deadname": [
-        "Transphobia"
-    ],
-    "bathroom bill": [
-        "Transphobia"
-    ],
-    "biological sex": [
-        "Transphobia"
-    ],
-    "gender ideology": [
-        "Transphobia"
-    ],
-    "gender confusion": [
-        "Transphobia"
-    ],
-    "gender delusion": [
-        "Transphobia"
-    ],
-    "bathroom predator": [
-        "Transphobia"
-    ],
-    "trans agenda": [
-        "Transphobia"
-    ],
-    "gender madness": [
-        "Transphobia"
-    ],
-    "gender denial": [
-        "Transphobia"
-    ],
-    "gender dystopia": [
-        "Transphobia"
-    ],
-    "trans menace": [
-        "Transphobia"
-    ],
-    "transgender hoax": [
-        "Transphobia"
-    ],
-    "gender brainwashing": [
-        "Transphobia"
-    ],
-    "trans lie": [
-        "Transphobia"
-    ],
-    "trans cult": [
-        "Transphobia"
-    ],
-    "ableist": [
-        "Ableism"
-    ],
-    "ableism": [
-        "Ableism"
-    ],
-    "handicapped": [
-        "Ableism"
-    ],
-    "crippled": [
-        "Ableism"
-    ],
-    "lame": [
-        "Ableism"
-    ],
-    "dumb": [
-        "Ableism"
-    ],
-    "deaf-mute": [
-        "Ableism"
-    ],
-    "wheelchair-bound": [
-        "Ableism"
-    ],
-    "retarded": [
-        "Ableism"
-    ],
-    "spastic": [
-        "Ableism"
-    ],
-    "invalid": [
-        "Ableism"
-    ],
-    "mental retardation": [
-        "Ableism"
-    ],
-    "idiot": [
-        "Ableism"
-    ],
-    "moron": [
-        "Ableism"
-    ],
-    "feebleminded": [
-        "Ableism"
-    ],
-    "imbecile": [
-        "Ableism"
-    ],
-    "vegetable": [
-        "Ableism"
-    ],
-    "mute": [
-        "Ableism"
-    ],
-    "slow": [
-        "Ableism"
-    ],
-    "handicap": [
-        "Ableism"
-    ],
-    "special needs": [
-        "Ableism"
-    ],
-    "learning disability": [
-        "Ableism"
-    ],
-    "blind to": [
-        "Ableism"
-    ],
-    "deaf to": [
-        "Ableism"
-    ],
-    "deformed": [
-        "Ableism"
-    ],
-    "differently abled": [
-        "Ableism"
-    ],
-    "physically challenged": [
-        "Ableism"
-    ],
-    "mentally challenged": [
-        "Ableism"
-    ],
-    "crip": [
-        "Ableism"
-    ],
-    "gimp": [
-        "Ableism"
-    ],
-    "lunatic": [
-        "Ableism"
-    ],
-    "maniac": [
-        "Ableism"
-    ],
-    "nuts": [
-        "Ableism"
-    ],
-    "psycho": [
-        "Ableism"
-    ],
-    "schizo": [
-        "Ableism"
-    ],
-    "spaz": [
-        "Ableism"
-    ],
-    "crazy": [
-        "Ableism"
-    ],
-    "insane": [
-        "Ableism"
-    ],
-    "handi-capable": [
-        "Ableism"
-    ],
-    "special": [
-        "Ableism"
-    ],
-    "chauvinism": [
-        "Misogyny"
-    ],
-    "misogynist": [
-        "Misogyny"
-    ],
-    "woman-hater": [
-        "Misogyny"
-    ],
-    "oppression of women": [
-        "Misogyny"
-    ],
-    "silencing women": [
-        "Misogyny"
-    ],
-    "demeaning women": [
-        "Misogyny"
-    ],
-    "gender oppression": [
-        "Misogyny"
-    ],
-    "women's rights violation": [
-        "Misogyny"
-    ],
-    "commit suicide": [
-        "Suicide"
-    ],
-    "attempt suicide": [
-        "Suicide"
-    ],
-    "suicidal": [
-        "Suicide"
-    ],
-    "suicidal thoughts": [
-        "Suicide"
-    ],
-    "suicidal ideation": [
-        "Suicide"
-    ],
-    "self-inflicted": [
-        "Suicide"
-    ],
-    "take my life": [
-        "Suicide"
-    ],
-    "end my life": [
-        "Suicide"
-    ],
-    "kill myself": [
-        "Suicide"
-    ],
-    "want to die": [
-        "Suicide"
-    ],
-    "wish to die": [
-        "Suicide"
-    ],
-    "depression": [
-        "Suicide"
-    ],
-    "hopelessness": [
-        "Suicide"
-    ],
-    "life is pointless": [
-        "Suicide"
-    ],
-    "give up on life": [
-        "Suicide"
-    ],
-    "no reason to live": [
-        "Suicide"
-    ],
-    "overdose": [
-        "Suicide"
-    ],
-    "pills": [
-        "Suicide"
-    ],
-    "hang myself": [
-        "Suicide"
-    ],
-    "jump off": [
-        "Suicide"
-    ],
-    "bridge": [
-        "Suicide"
-    ],
-    "cliff": [
-        "Suicide"
-    ],
-    "poison": [
-        "Suicide"
-    ],
-    "lethal dose": [
-        "Suicide"
-    ],
-    "suffocate": [
-        "Suicide"
-    ],
-    "carbon monoxide": [
-        "Suicide"
-    ],
-    "razor blade": [
-        "Suicide"
-    ],
-    "cut myself": [
-        "Suicide"
-    ],
-    "cutting": [
-        "Suicide"
-    ],
-    "bleeding": [
-        "Suicide"
-    ],
-    "dying": [
-        "Suicide"
-    ],
-    "death wish": [
-        "Suicide"
-    ],
-    "end it all": [
-        "Suicide"
-    ],
-    "crisis hotline": [
-        "Suicide"
-    ],
-    "help me": [
-        "Suicide"
-    ],
-    "therapy": [
-        "Suicide"
-    ],
-    "counseling": [
-        "Suicide"
-    ],
-    "psychiatrist": [
-        "Suicide"
-    ],
-    "mental health": [
-        "Suicide"
-    ],
-    "support group": [
-        "Suicide"
-    ],
-    "survivor": [
-        "Suicide"
-    ],
-    "prevention": [
-        "Suicide"
-    ],
-    "save a life": [
-        "Suicide"
-    ],
-    "talk to someone": [
-        "Suicide"
-    ],
-    "reach out": [
-        "Suicide"
-    ]
-}
+[
+    {
+        "phrase": "assault",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "attack",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "beating",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "bloodshed",
+        "categories": [
+            "Violence",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "brutality",
+        "categories": [
+            "Violence",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "bullying",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "clash",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "combat",
+        "categories": [
+            "Violence",
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "conflict",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "crime",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "cruelty",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "destruction",
+        "categories": [
+            "Violence",
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "fight",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "force",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "genocide",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Hate Speech",
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "harm",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "homicide",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "hostility",
+        "categories": [
+            "Violence",
+            "Violence",
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "injury",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "kill",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "lynching",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "murder",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "riot",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "shooting",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "slaughter",
+        "categories": [
+            "Violence",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "terrorism",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "torture",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "vandalism",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "war",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "wound",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "abuse",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Profanity",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "aggression",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "battle",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "brawl",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "carnage",
+        "categories": [
+            "Violence",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "danger",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "death",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "duel",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "explosion",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "fisticuffs",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "fray",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "invasion",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "lynch",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "massacre",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "mayhem",
+        "categories": [
+            "Violence",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "melee",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "mutiny",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "onslaught",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "outbreak",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "pillage",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "punch",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "raid",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "rebellion",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "revolt",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "robbery",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "siege",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "skirmish",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "slay",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "snipe",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "stabbing",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "strangulation",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "strife",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "strike",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "subjugation",
+        "categories": [
+            "Violence",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "trouble",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "uprising",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "vengeance",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "wrath",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "battery",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "incitement",
+        "categories": [
+            "Violence",
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "molestation",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "intimidation",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "ravage",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "beatings",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "homicides",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "lynchings",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "riots",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "shootings",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "massacres",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "mayhems",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "onslaughts",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "outbreaks",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "robberies",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "sieges",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "skirmishes",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "slayings",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "strangulations",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "strikes",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "subjugations",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "uprisings",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "vengeances",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "atrocities",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "battering",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "bombardment",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "dismemberment",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "mutilation",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "hostage-taking",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "terrorist attack",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "gang violence",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "domestic violence",
+        "categories": [
+            "Violence",
+            "Graphic Images",
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "armed robbery",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "mob violence",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "street fight",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "drive-by shooting",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "violent protest",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "racial violence",
+        "categories": [
+            "Violence",
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "sexual assault",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "child abuse",
+        "categories": [
+            "Violence",
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "honor killing",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "violent crime",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "violent act",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "violent behavior",
+        "categories": [
+            "Violence"
+        ]
+    },
+    {
+        "phrase": "##CENSORED##",
+        "categories": []
+    },
+    {
+        "phrase": "blood",
+        "categories": [
+            "Graphic Images",
+            "Gore",
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "gore",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "violence",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "wounds",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "injuries",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "decapitation",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "crime scene",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "autopsy",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "cadaver",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "corpse",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "dead body",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "execution",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "self-harm",
+        "categories": [
+            "Graphic Images",
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "suicide",
+        "categories": [
+            "Graphic Images",
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "beheading",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "rape",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "animal cruelty",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "animal abuse",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "roadkill",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "accident",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "disaster",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "natural disaster",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "famine",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "starvation",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "decomposed body",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "burned body",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "burn wounds",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "charred remains",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "drowning",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "suffocation",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "poisoning",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "hanging",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "bludgeoning",
+        "categories": [
+            "Graphic Images",
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "cannibalism",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "mass shooting",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "war crimes",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "pedophilia",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "bestiality",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "necrophilia",
+        "categories": [
+            "Graphic Images"
+        ]
+    },
+    {
+        "phrase": "guts",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "gruesome",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "gory",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "horrific",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "macabre",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "savage",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "butchery",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "grizzly",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "maiming",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "gruesomeness",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "grisliness",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "mass killing",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "horror",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "extermination",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "savageness",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "butchering",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "slaying",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "bloodbath",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "bloodletting",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "grisly",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "violent",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "deadly",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "gruesome death",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "gruesome injury",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "bloody",
+        "categories": [
+            "Gore",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "violent death",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "violent injury",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "sanguinary",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "morbid",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "suffering",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "harrowing",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "heinous",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "atrocity",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "abomination",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "impaling",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "evisceration",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "disembowelment",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "slicing",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "skinning",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "torn apart",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "smashed",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "crushed",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "bashed",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "laceration",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "brutal",
+        "categories": [
+            "Gore"
+        ]
+    },
+    {
+        "phrase": "naked",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "nude",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "bare",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "unclothed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "undressed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "topless",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "bottomless",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "stripped",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "exposed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "skin",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "birthday suit",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "buff",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "stark naked",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "au naturel",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "in the buff",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "bare-assed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "bare-chested",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "bare-breasted",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "barefoot",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "disrobed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "in the raw",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "uncovered",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "revealed",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "unveiled",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "flashing",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "moon",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "moonlight",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "streaking",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "stripping",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "undressing",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "peep show",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "lewd",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "erotic",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sensual",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "provocative",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "adult content",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "pornographic",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "explicit",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "obscene",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sexual content",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "softcore",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "hardcore",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "racy",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "risqu\u00e9",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "voyeur",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "voyeurism",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "scantily clad",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "skimpy",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "revealing",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "see-through",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "transparent",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "sheer",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "XXX",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "NSFW",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "graphic content",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "seductive",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "suggestive",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "teasing",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "erotica",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "striptease",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "burlesque",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "pin-up",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "centerfold",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "sensuality",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nudism",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "naturism",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "topless beach",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nudist",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nudist colony",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nude beach",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "exhibitionism",
+        "categories": [
+            "Nudity",
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "flasher",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "bare skin",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "revealing clothes",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "skimpy outfit",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "undergarments",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "lingerie",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "swimwear",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nipple",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "genitals",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "private parts",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "erogenous zones",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "body parts",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "strip club",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "adult entertainment",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "erotic art",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "body painting",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "nude photography",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "erotic literature",
+        "categories": [
+            "Nudity"
+        ]
+    },
+    {
+        "phrase": "adult",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "porn",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sex",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "xxx",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "intimate",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "fetish",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "strip",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "prostitute",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "escort",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "brothel",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "incest",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "orgasm",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "masturbate",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "foreplay",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "seduction",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "aphrodisiac",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "libido",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sexuality",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "kama sutra",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "orgy",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "swinger",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "polyamory",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "bdsm",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "bondage",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "dominatrix",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "submission",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "kink",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "lascivious",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "lust",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sensuous",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "tantalizing",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "temptation",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "erogenous",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "sultry",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "titillating",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "alluring",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "scandalous",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "raunchy",
+        "categories": [
+            "Sexual Content"
+        ]
+    },
+    {
+        "phrase": "bastard",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "bitch",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "bollocks",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "bugger",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "bullshit",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "crap",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "cunt",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "damn",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "dick",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "douche",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "fuck",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "motherfucker",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "piss",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "prick",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "shit",
+        "categories": [
+            "Profanity",
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "slut",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "twat",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "hell",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "ass",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "freak",
+        "categories": [
+            "Profanity",
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "jerk",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "suck",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "freaking",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "fricking",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "heck",
+        "categories": [
+            "Profanity"
+        ]
+    },
+    {
+        "phrase": "Among Us",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "sus",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "impostor",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "crewmate",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "eject",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "vent",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "task",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "sabotage",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "emergency meeting",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "discussion",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "vote",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "skip vote",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "electrical",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "medbay",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "cafeteria",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "navigation",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "admin",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "security",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "reactor",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "shields",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "lower engine",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "upper engine",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "weapons",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "communications",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "storage",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "task bar",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "visual task",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "scan",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "swipe card",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "wires",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "divert power",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "fuel engines",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "fix lights",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "prime shields",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "clear asteroids",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "inspect sample",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "submit scan",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "empty garbage",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "empty chute",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "align engine output",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "calibrate distributor",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "start reactor",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "unlock manifolds",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "clean O2 filter",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "stabilize steering",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "chart course",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "accept diverted power",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "monitor tree",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "fix wiring",
+        "categories": [
+            "Among Us",
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "secure boarding pass",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "scan boarding pass",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "decontaminate",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "water plants",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "enter ID code",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "empty trash",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "replace water jug",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "assemble artifact",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "sort samples",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "record temperature",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "open waterways",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "reset seismic stabilizers",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "fix weather node",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "polus",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "mira HQ",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "skeld",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "airship",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "meeting room",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "gap room",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "cockpit",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "engine room",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "brig",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "main hall",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "medical",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "armory",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "cargo bay",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "records",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "showers",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "lounge",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "vault",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "ventilation",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "communications sabotage",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "reactor meltdown",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "oxygen depletion",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "fix comms",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "clear leaves",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "download data",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "upload data",
+        "categories": [
+            "Among Us"
+        ]
+    },
+    {
+        "phrase": "racist",
+        "categories": [
+            "Hate Speech",
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "bigot",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "xenophobic",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "homophobic",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "transphobic",
+        "categories": [
+            "Hate Speech",
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "antisemitic",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "sexist",
+        "categories": [
+            "Hate Speech",
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "supremacist",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "hate group",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "hate crime",
+        "categories": [
+            "Hate Speech",
+            "Racism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "ethnic cleansing",
+        "categories": [
+            "Hate Speech",
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "white power",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "neo-nazi",
+        "categories": [
+            "Hate Speech",
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "slur",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "discrimination",
+        "categories": [
+            "Hate Speech",
+            "Racism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "intolerance",
+        "categories": [
+            "Hate Speech",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "prejudice",
+        "categories": [
+            "Hate Speech",
+            "Racism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "hate speech",
+        "categories": [
+            "Hate Speech",
+            "Racism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "violent extremism",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "radicalization",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "hate propaganda",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "hate rhetoric",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "derogatory",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "pejorative",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "hate mongering",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "misogynistic",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "dehumanization",
+        "categories": [
+            "Hate Speech"
+        ]
+    },
+    {
+        "phrase": "racial slur",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racially charged",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial profiling",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "white supremacy",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "xenophobia",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "bigotry",
+        "categories": [
+            "Racism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "anti-immigrant",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "segregation",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "apartheid",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial inequality",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial hatred",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "systemic racism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial bias",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "institutional racism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "ethnocentrism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial superiority",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "white nationalist",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial stereotype",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial injustice",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "colorism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "race-based",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "anti-Semitism",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "anti-blackness",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "anti-Asian",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "anti-Hispanic",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "anti-Indigenous",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial insult",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "ethnic slur",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racist joke",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial microaggression",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "racial tension",
+        "categories": [
+            "Racism"
+        ]
+    },
+    {
+        "phrase": "sexism",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "gender bias",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "misogyny",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "patriarchy",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "male chauvinism",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "gender discrimination",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "objectification",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "harassment",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "stereotyping",
+        "categories": [
+            "Sexism",
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "mansplaining",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "manterruption",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "toxic masculinity",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "glass ceiling",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "male privilege",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "gender pay gap",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "sexist jokes",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "women's rights",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "female oppression",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "male supremacy",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "woman hater",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "anti-feminism",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "victim blaming",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "gender inequality",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "reproductive rights",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "catcalling",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "sexual objectification",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "rape culture",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "double standards",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "workplace discrimination",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "sex-based harassment",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "male dominance",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "gender roles",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "###CENSORED###",
+        "categories": []
+    },
+    {
+        "phrase": "gender stereotypes",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "female subordination",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "gender violence",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "intimate partner violence",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "gender-based violence",
+        "categories": [
+            "Sexism",
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "female genital mutilation",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "honor killings",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "sexist slurs",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "sexist advertising",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "media representation of women",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "gendered insults",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "discrimination against women",
+        "categories": [
+            "Sexism"
+        ]
+    },
+    {
+        "phrase": "homophobia",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "anti-gay",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "anti-LGBT",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "anti-LGBTQ",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "heterosexism",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "heteronormativity",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "gay bashing",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "lesbian bashing",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "transphobia",
+        "categories": [
+            "Homophobia",
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "biphobia",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "queerphobia",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "slurs",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "marginalization",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "oppression",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "gay agenda",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "homosexual agenda",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "conversion therapy",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "reparative therapy",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "ex-gay movement",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "family values",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "traditional marriage",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "moral decay",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "sinful lifestyle",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "deviant behavior",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "lifestyle choice",
+        "categories": [
+            "Homophobia"
+        ]
+    },
+    {
+        "phrase": "anti-trans",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "anti-transgender",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender-critical",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "TERF",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "trans-exclusionary",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "transphobe",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "misgender",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "deadname",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "bathroom bill",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "biological sex",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender ideology",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender confusion",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender delusion",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "bathroom predator",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "trans agenda",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender madness",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender denial",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender dystopia",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "trans menace",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "transgender hoax",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "gender brainwashing",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "trans lie",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "trans cult",
+        "categories": [
+            "Transphobia"
+        ]
+    },
+    {
+        "phrase": "ableist",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "ableism",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "handicapped",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "crippled",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "lame",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "dumb",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "deaf-mute",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "wheelchair-bound",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "retarded",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "spastic",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "invalid",
+        "categories": [
+            "Ableism",
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "mental retardation",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "idiot",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "moron",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "feebleminded",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "imbecile",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "vegetable",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "mute",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "slow",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "handicap",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "special needs",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "learning disability",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "blind to",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "deaf to",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "deformed",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "differently abled",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "physically challenged",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "mentally challenged",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "crip",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "gimp",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "lunatic",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "maniac",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "nuts",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "psycho",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "schizo",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "spaz",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "crazy",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "insane",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "handi-capable",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "special",
+        "categories": [
+            "Ableism"
+        ]
+    },
+    {
+        "phrase": "chauvinism",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "misogynist",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "woman-hater",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "oppression of women",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "silencing women",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "demeaning women",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "gender oppression",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "women's rights violation",
+        "categories": [
+            "Misogyny"
+        ]
+    },
+    {
+        "phrase": "commit suicide",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "attempt suicide",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "suicidal",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "suicidal thoughts",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "suicidal ideation",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "self-inflicted",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "take my life",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "end my life",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "kill myself",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "want to die",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "wish to die",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "depression",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "hopelessness",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "life is pointless",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "give up on life",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "no reason to live",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "overdose",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "pills",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "hang myself",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "jump off",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "bridge",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "cliff",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "poison",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "lethal dose",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "suffocate",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "carbon monoxide",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "razor blade",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "cut myself",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "cutting",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "bleeding",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "dying",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "death wish",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "end it all",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "crisis hotline",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "help me",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "therapy",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "counseling",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "psychiatrist",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "mental health",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "support group",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "survivor",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "prevention",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "save a life",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "talk to someone",
+        "categories": [
+            "Suicide"
+        ]
+    },
+    {
+        "phrase": "reach out",
+        "categories": [
+            "Suicide"
+        ]
+    }
+]
