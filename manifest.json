@@ -9,7 +9,7 @@
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
-        "js": ["js/detect.js", "js/script.js"]
+        "js": ["src/js/detect.js", "src/js/script.js"]
       }
     ],
     "browser_action": {
@@ -17,8 +17,8 @@
     },
   
     "web_accessible_resources": [
-      "data/flag_phrases.json",
-      "data/content_categories.json"
+      "src/data/flag_phrases.json",
+      "src/data/content_categories.json"
     ]
   }
   

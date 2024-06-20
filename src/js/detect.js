@@ -1,5 +1,5 @@
-const contentCategoriesPath = 'data/content_categories.json';
-const flagPhrasesPath = 'data/flag_phrases.json';
+const contentCategoriesPath = 'src/data/content_categories.json';
+const flagPhrasesPath = 'src/data/flag_phrases.json';
 
 async function fetchJsonFile(path) {
     const response = await fetch(browser.runtime.getURL(path));
