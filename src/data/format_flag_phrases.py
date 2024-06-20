@@ -1,22 +1,25 @@
 import json
 
+FILTER = [f"{"#"*i}CENSORED{"#"*i}" for i in range(0, 5)]
+
 def flatten(matrix):
     return [item for row in matrix for item in row]
 
-def format(file):
-    with open(file, "r") as f:
-        file = f.read()
-    nested_json_list = [category for category in json.loads(file)]
-    flattened_word_list = flatten([category["words"] for category in nested_json_list])
-    words_dict = dict(zip(flattened_word_list, [[] for _ in range(len(flattened_word_list))]))
-    for category in nested_json_list:
-        for word in category["words"]:
-            if category["name"] not in words_dict[word]:
-                words_dict[word].append(category["name"])
-    words_dict.pop("##CENSORED##")
-    words_dict.pop("###CENSORED###")
-    return json.dumps(words_dict)
+def raw_data_to_flag_phrases(raw_data):
+    all_flag_phrases = flatten([data["words"] for data in raw_data])
+    result = {phrase: [] for phrase in all_flag_phrases if phrase not in FILTER}
+    for content_category in raw_data:
+        name = content_category["name"]
+        for flag_phrase in content_category["words"]:
+            if flag_phrase not in FILTER and name not in result[flag_phrase]:
+                result[flag_phrase].append(name)
+    return result
+
+def main(): 
+    with open("src/data/raw_data.json") as f:
+        raw_data = json.load(f)
+    with open("src/data/flag_phrases.json", "w") as f:
+        json.dump(raw_data_to_flag_phrases(raw_data), f)   
 
 if __name__ == "__main__":
-    with open("data/flag_phrases.json", "w") as f:
-        f.write(format("data/raw_data.json"))
+   main()
