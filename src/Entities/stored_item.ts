@@ -33,8 +33,7 @@ export abstract class StoredItem<T> implements IStoredItem<T> {
             return data;
         }
         else {
-            const data = JSON.parse(json);
-            return data;
+            return Json.fromJson<T>(json);
         }
     }
 
@@ -47,7 +46,7 @@ export abstract class StoredItem<T> implements IStoredItem<T> {
 export class LocallyStoredItem<T> extends StoredItem<T> {
     
     protected async set(data: T): Promise<void> {
-        const value = JSON.stringify(data);
+        const value = Json.toJson(data);
         storage.local.set({name:value});
     }
 }
@@ -55,7 +54,7 @@ export class LocallyStoredItem<T> extends StoredItem<T> {
 export class SyncedStoredItem<T> extends StoredItem<T> {
     
     protected async set(data: T): Promise<void> {
-        const value = JSON.stringify(data);
+        const value = Json.toJson(data);
         storage.sync.set({name:value});
     }
 }
@@ -63,7 +62,7 @@ export class SyncedStoredItem<T> extends StoredItem<T> {
 export class SessionStoredItem<T> extends StoredItem<T> {
     
     protected async set(data: T): Promise<void> {
-        const value = JSON.stringify(data);
+        const value = Json.toJson(data);
         storage.session.set({name:value});
     }
 }
