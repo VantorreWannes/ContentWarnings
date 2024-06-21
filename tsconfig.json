@@ -3,12 +3,11 @@
     "outDir": "./dist/js",
     "noImplicitAny": true,
     "sourceMap": true,
-    "module": "es6",
-    "target": "es5",
-    "jsx": "react",
+    "module": "ES2022",
+    "target": "ES2022",
     "allowJs": true,
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["src", "test"]
 }
