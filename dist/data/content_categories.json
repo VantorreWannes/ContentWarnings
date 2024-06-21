@@ -1,262 +1,262 @@
 [
     {
-        "category": "Violence",
-        "Description": "Content that includes physical force intended to hurt or kill someone. Warning users can help them avoid distressing material."
+        "name": "Violence",
+        "description": "Content that includes physical force intended to hurt or kill someone. Warning users can help them avoid distressing material."
     },
     {
-        "category": "Graphic Images",
-        "Description": "Visual content that is highly detailed and potentially disturbing. Flagging this can prevent shock and discomfort."
+        "name": "Graphic Images",
+        "description": "Visual content that is highly detailed and potentially disturbing. Flagging this can prevent shock and discomfort."
     },
     {
-        "category": "Gore",
-        "Description": "Content that involves extreme violence, often with graphic injury details. This can be deeply unsettling for many users."
+        "name": "Gore",
+        "description": "Content that involves extreme violence, often with graphic injury details. This can be deeply unsettling for many users."
     },
     {
-        "category": "Nudity",
-        "Description": "Content that depicts unclothed bodies. Warning users can help maintain appropriate viewing environments."
+        "name": "Nudity",
+        "description": "Content that depicts unclothed bodies. Warning users can help maintain appropriate viewing environments."
     },
     {
-        "category": "Sexual Content",
-        "Description": "Material with explicit sexual themes. It may be inappropriate or uncomfortable for some viewers."
+        "name": "Sexual Content",
+        "description": "Material with explicit sexual themes. It may be inappropriate or uncomfortable for some viewers."
     },
     {
-        "category": "Profanity",
-        "Description": "Use of offensive language. Some users may prefer to avoid such content."
+        "name": "Profanity",
+        "description": "Use of offensive language. Some users may prefer to avoid such content."
     },
     {
-        "category": "Hate Speech",
-        "Description": "Content that promotes hatred against a particular group. This can be harmful and distressing."
+        "name": "Hate Speech",
+        "description": "Content that promotes hatred against a particular group. This can be harmful and distressing."
     },
     {
-        "category": "Racism",
-        "Description": "Content that discriminates or promotes prejudice against races. It is important to flag to prevent harm and distress."
+        "name": "Racism",
+        "description": "Content that discriminates or promotes prejudice against races. It is important to flag to prevent harm and distress."
     },
     {
-        "category": "Sexism",
-        "Description": "Content that discriminates based on gender. This can be hurtful and offensive to many users."
+        "name": "Sexism",
+        "description": "Content that discriminates based on gender. This can be hurtful and offensive to many users."
     },
     {
-        "category": "Homophobia",
-        "Description": "Content that discriminates against or shows prejudice towards LGBTQ+ individuals. Flagging helps protect users from harmful biases."
+        "name": "Homophobia",
+        "description": "Content that discriminates against or shows prejudice towards LGBTQ+ individuals. Flagging helps protect users from harmful biases."
     },
     {
-        "category": "Transphobia",
-        "Description": "Content that discriminates against transgender individuals. Warning users can prevent exposure to harmful material."
+        "name": "Transphobia",
+        "description": "Content that discriminates against transgender individuals. Warning users can prevent exposure to harmful material."
     },
     {
-        "category": "Ableism",
-        "Description": "Content that discriminates against individuals with disabilities. It is important to flag to prevent harm and distress."
+        "name": "Ableism",
+        "description": "Content that discriminates against individuals with disabilities. It is important to flag to prevent harm and distress."
     },
     {
-        "category": "Misogyny",
-        "Description": "Content that shows contempt or prejudice against women. This can be deeply offensive and harmful."
+        "name": "Misogyny",
+        "description": "Content that shows contempt or prejudice against women. This can be deeply offensive and harmful."
     },
     {
-        "category": "Suicide",
-        "Description": "Content discussing or depicting self-inflicted death. Warning users can help protect vulnerable individuals."
+        "name": "Suicide",
+        "description": "Content discussing or depicting self-inflicted death. Warning users can help protect vulnerable individuals."
     },
     {
-        "category": "Self-Harm",
-        "Description": "Content related to harming oneself. This can be triggering and harmful to viewers."
+        "name": "Self-Harm",
+        "description": "Content related to harming oneself. This can be triggering and harmful to viewers."
     },
     {
-        "category": "Eating Disorders",
-        "Description": "Content discussing or depicting unhealthy eating behaviors. Warning users can prevent triggering material."
+        "name": "Eating Disorders",
+        "description": "Content discussing or depicting unhealthy eating behaviors. Warning users can prevent triggering material."
     },
     {
-        "category": "Mental Health Issues",
-        "Description": "Content dealing with psychological disorders. Flagging can help protect those who may be sensitive to these topics."
+        "name": "Mental Health Issues",
+        "description": "Content dealing with psychological disorders. Flagging can help protect those who may be sensitive to these topics."
     },
     {
-        "category": "Substance Abuse",
-        "Description": "Content involving the misuse of drugs or alcohol. This can be distressing and triggering for some users."
+        "name": "Substance Abuse",
+        "description": "Content involving the misuse of drugs or alcohol. This can be distressing and triggering for some users."
     },
     {
-        "category": "Alcohol",
-        "Description": "Content involving the consumption or promotion of alcoholic beverages. Some users may prefer to avoid such material."
+        "name": "Alcohol",
+        "description": "Content involving the consumption or promotion of alcoholic beverages. Some users may prefer to avoid such material."
     },
     {
-        "category": "Smoking",
-        "Description": "Content depicting the use of tobacco products. Warning users can help them avoid such content."
+        "name": "Smoking",
+        "description": "Content depicting the use of tobacco products. Warning users can help them avoid such content."
     },
     {
-        "category": "Drug Use",
-        "Description": "Content showing the consumption of drugs. This can be triggering or distressing."
+        "name": "Drug Use",
+        "description": "Content showing the consumption of drugs. This can be triggering or distressing."
     },
     {
-        "category": "Addiction",
-        "Description": "Content discussing compulsive behaviors. It is important to warn users who may be affected by these topics."
+        "name": "Addiction",
+        "description": "Content discussing compulsive behaviors. It is important to warn users who may be affected by these topics."
     },
     {
-        "category": "Child Abuse",
-        "Description": "Content depicting or discussing harm to children. This is highly sensitive and distressing material."
+        "name": "Child Abuse",
+        "description": "Content depicting or discussing harm to children. This is highly sensitive and distressing material."
     },
     {
-        "category": "Animal Abuse",
-        "Description": "Content involving harm to animals. This can be very upsetting for many users."
+        "name": "Animal Abuse",
+        "description": "Content involving harm to animals. This can be very upsetting for many users."
     },
     {
-        "category": "Domestic Violence",
-        "Description": "Content related to violence within the home. This can be triggering and deeply upsetting."
+        "name": "Domestic Violence",
+        "description": "Content related to violence within the home. This can be triggering and deeply upsetting."
     },
     {
-        "category": "Abduction/Kidnapping",
-        "Description": "Content involving the forceful taking of individuals. This can be very distressing."
+        "name": "Abduction/Kidnapping",
+        "description": "Content involving the forceful taking of individuals. This can be very distressing."
     },
     {
-        "category": "Torture",
-        "Description": "Content involving severe physical or psychological pain. This is highly disturbing material."
+        "name": "Torture",
+        "description": "Content involving severe physical or psychological pain. This is highly disturbing material."
     },
     {
-        "category": "War",
-        "Description": "Content depicting armed conflict. It can be upsetting and distressing to many users."
+        "name": "War",
+        "description": "Content depicting armed conflict. It can be upsetting and distressing to many users."
     },
     {
-        "category": "Terrorism",
-        "Description": "Content related to acts of terror. This can be highly distressing and frightening."
+        "name": "Terrorism",
+        "description": "Content related to acts of terror. This can be highly distressing and frightening."
     },
     {
-        "category": "Natural Disasters",
-        "Description": "Content involving events like earthquakes, floods, and hurricanes. This can be distressing for viewers."
+        "name": "Natural Disasters",
+        "description": "Content involving events like earthquakes, floods, and hurricanes. This can be distressing for viewers."
     },
     {
-        "category": "Graphic Medical Content",
-        "Description": "Detailed depictions of medical procedures. This can be unsettling for many users."
+        "name": "Graphic Medical Content",
+        "description": "Detailed depictions of medical procedures. This can be unsettling for many users."
     },
     {
-        "category": "Death/Dying",
-        "Description": "Content discussing or depicting death. It can be distressing for many viewers."
+        "name": "Death/Dying",
+        "description": "Content discussing or depicting death. It can be distressing for many viewers."
     },
     {
-        "category": "Murder",
-        "Description": "Content involving the intentional killing of a person. This is highly disturbing material."
+        "name": "Murder",
+        "description": "Content involving the intentional killing of a person. This is highly disturbing material."
     },
     {
-        "category": "Stalking",
-        "Description": "Content involving obsessive following or harassment. This can be deeply unsettling."
+        "name": "Stalking",
+        "description": "Content involving obsessive following or harassment. This can be deeply unsettling."
     },
     {
-        "category": "Harassment",
-        "Description": "Content involving aggressive pressure or intimidation. This is harmful and distressing material."
+        "name": "Harassment",
+        "description": "Content involving aggressive pressure or intimidation. This is harmful and distressing material."
     },
     {
-        "category": "Bullying",
-        "Description": "Content involving repeated aggressive behavior. This can be deeply upsetting and harmful."
+        "name": "Bullying",
+        "description": "Content involving repeated aggressive behavior. This can be deeply upsetting and harmful."
     },
     {
-        "category": "Incest",
-        "Description": "Content involving sexual relations between family members. This is highly disturbing and sensitive material."
+        "name": "Incest",
+        "description": "Content involving sexual relations between family members. This is highly disturbing and sensitive material."
     },
     {
-        "category": "Pedophilia",
-        "Description": "Content involving sexual attraction to children. This is illegal and deeply disturbing material."
+        "name": "Pedophilia",
+        "description": "Content involving sexual attraction to children. This is illegal and deeply disturbing material."
     },
     {
-        "category": "Graphic Descriptions of Illness",
-        "Description": "Detailed accounts of diseases and ailments. This can be unsettling for some users."
+        "name": "Graphic descriptions of Illness",
+        "description": "Detailed accounts of diseases and ailments. This can be unsettling for some users."
     },
     {
-        "category": "Religious Intolerance",
-        "Description": "Content showing prejudice against specific religions. This can be harmful and offensive."
+        "name": "Religious Intolerance",
+        "description": "Content showing prejudice against specific religions. This can be harmful and offensive."
     },
     {
-        "category": "Cult Activity",
-        "Description": "Content involving manipulative and harmful group practices. This can be disturbing and harmful."
+        "name": "Cult Activity",
+        "description": "Content involving manipulative and harmful group practices. This can be disturbing and harmful."
     },
     {
-        "category": "Body Shaming",
-        "Description": "Content criticizing or mocking someone's body. This can be deeply harmful and offensive."
+        "name": "Body Shaming",
+        "description": "Content criticizing or mocking someone's body. This can be deeply harmful and offensive."
     },
     {
-        "category": "Fatphobia",
-        "Description": "Content showing prejudice against overweight individuals. This can be harmful and offensive."
+        "name": "Fatphobia",
+        "description": "Content showing prejudice against overweight individuals. This can be harmful and offensive."
     },
     {
-        "category": "Eating/Drinking Disorders",
-        "Description": "Content involving unhealthy eating or drinking behaviors. This can be triggering and harmful."
+        "name": "Eating/Drinking Disorders",
+        "description": "Content involving unhealthy eating or drinking behaviors. This can be triggering and harmful."
     },
     {
-        "category": "Infidelity",
-        "Description": "Content involving cheating in relationships. This can be distressing for many viewers."
+        "name": "Infidelity",
+        "description": "Content involving cheating in relationships. This can be distressing for many viewers."
     },
     {
-        "category": "Financial Problems",
-        "Description": "Content discussing economic difficulties. This can be stressful and distressing."
+        "name": "Financial Problems",
+        "description": "Content discussing economic difficulties. This can be stressful and distressing."
     },
     {
-        "category": "Homelessness",
-        "Description": "Content involving lack of shelter. This can be distressing and upsetting."
+        "name": "Homelessness",
+        "description": "Content involving lack of shelter. This can be distressing and upsetting."
     },
     {
-        "category": "Poverty",
-        "Description": "Content involving severe economic deprivation. This can be distressing and upsetting."
+        "name": "Poverty",
+        "description": "Content involving severe economic deprivation. This can be distressing and upsetting."
     },
     {
-        "category": "Gambling",
-        "Description": "Content involving betting or wagering. This can be harmful for some users."
+        "name": "Gambling",
+        "description": "Content involving betting or wagering. This can be harmful for some users."
     },
     {
-        "category": "Miscarriage/Stillbirth",
-        "Description": "Content involving the loss of a pregnancy. This is highly sensitive and distressing material."
+        "name": "Miscarriage/Stillbirth",
+        "description": "Content involving the loss of a pregnancy. This is highly sensitive and distressing material."
     },
     {
-        "category": "Blood/Injury",
-        "Description": "Content depicting bleeding or injuries. This can be unsettling for many users."
+        "name": "Blood/Injury",
+        "description": "Content depicting bleeding or injuries. This can be unsettling for many users."
     },
     {
-        "category": "Animal Death",
-        "Description": "Content depicting the death of animals. This can be very upsetting for viewers."
+        "name": "Animal Death",
+        "description": "Content depicting the death of animals. This can be very upsetting for viewers."
     },
     {
-        "category": "Child Death",
-        "Description": "Content involving the death of a child. This is highly sensitive and distressing material."
+        "name": "Child Death",
+        "description": "Content involving the death of a child. This is highly sensitive and distressing material."
     },
     {
-        "category": "Miscarriage",
-        "Description": "Content involving the loss of a pregnancy. This is highly sensitive and distressing material."
+        "name": "Miscarriage",
+        "description": "Content involving the loss of a pregnancy. This is highly sensitive and distressing material."
     },
     {
-        "category": "Infant Death",
-        "Description": "Content involving the death of an infant. This is highly sensitive and distressing material."
+        "name": "Infant Death",
+        "description": "Content involving the death of an infant. This is highly sensitive and distressing material."
     },
     {
-        "category": "Euthanasia",
-        "Description": "Content involving the humane ending of a life. This can be deeply emotional and distressing."
+        "name": "Euthanasia",
+        "description": "Content involving the humane ending of a life. This can be deeply emotional and distressing."
     },
     {
-        "category": "Hospital Scenes",
-        "Description": "Content set in medical environments. This can be unsettling for some users."
+        "name": "Hospital Scenes",
+        "description": "Content set in medical environments. This can be unsettling for some users."
     },
     {
-        "category": "Graphic Surgery",
-        "Description": "Detailed depictions of surgical procedures. This can be unsettling for many users."
+        "name": "Graphic Surgery",
+        "description": "Detailed depictions of surgical procedures. This can be unsettling for many users."
     },
     {
-        "category": "Medical Procedures",
-        "Description": "Content involving medical treatments. This can be unsettling for some users."
+        "name": "Medical Procedures",
+        "description": "Content involving medical treatments. This can be unsettling for some users."
     },
     {
-        "category": "Sex Trafficking",
-        "Description": "Content involving the forced sexual exploitation of individuals. This is highly disturbing and illegal."
+        "name": "Sex Trafficking",
+        "description": "Content involving the forced sexual exploitation of individuals. This is highly disturbing and illegal."
     },
     {
-        "category": "Human Trafficking",
-        "Description": "Content involving the illegal trade of humans. This is highly disturbing and illegal."
+        "name": "Human Trafficking",
+        "description": "Content involving the illegal trade of humans. This is highly disturbing and illegal."
     },
     {
-        "category": "Police Brutality",
-        "Description": "Content involving excessive force by law enforcement. This can be distressing and harmful."
+        "name": "Police Brutality",
+        "description": "Content involving excessive force by law enforcement. This can be distressing and harmful."
     },
     {
-        "category": "Institutionalized Racism",
-        "Description": "Content involving systemic discrimination based on race. This can be harmful and offensive."
+        "name": "Institutionalized Racism",
+        "description": "Content involving systemic discrimination based on race. This can be harmful and offensive."
     },
     {
-        "category": "Genocide",
-        "Description": "Content involving the mass extermination of a group. This is highly disturbing and sensitive material."
+        "name": "Genocide",
+        "description": "Content involving the mass extermination of a group. This is highly disturbing and sensitive material."
     },
     {
-        "category": "Human Rights Violations",
-        "Description": "Content involving the abuse of basic rights. This is highly distressing and offensive material."
+        "name": "Human Rights Violations",
+        "description": "Content involving the abuse of basic rights. This is highly distressing and offensive material."
     }
 ]
