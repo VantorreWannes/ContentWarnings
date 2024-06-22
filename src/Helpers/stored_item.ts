@@ -1,4 +1,5 @@
 import { storage } from "webextension-polyfill";
+import { Json } from "./json";
 
 export interface IStoredItem<T> {
     get(): Promise<T>;

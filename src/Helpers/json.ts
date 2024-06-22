@@ -1,4 +1,4 @@
-class Json {
+export class Json {
     public static toJson<T>(data: T): string {
         return JSON.stringify(data);
     }
