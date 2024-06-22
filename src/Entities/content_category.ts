@@ -1,8 +1,7 @@
-class ContentCategory {
-    name: string
-    description: string
-    constructor(name: string, description: string) {
-        this.name = name
-        this.description = description
-    }
+import { FlagPhrase } from "./flag_phrase";
+
+export interface ContentCategory {
+    name: string;
+    description: string;
+    flag_phrases: FlagPhrase[];
 }
