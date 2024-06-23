@@ -1,24 +1,25 @@
-  {
-    "manifest_version": 2,
-    "name": "Content Warnings extention",
-    "version": "0.0",
-
-    "description": "Warns about user-defined keywords on webpages",
-    "homepage_url": "https://github.com/VantorreWannes/ContentWarnings",
-    "permissions": ["activeTab", "storage"],
-    "content_scripts": [
-      {
-        "matches": ["<all_urls>"],
-        "js": ["js/detect.js", "js/script.js"]
-      }
-    ],
-    "browser_action": {
-      "default_title": "Content Warnings"
-    },
-  
-    "web_accessible_resources": [
-      "data/flag_phrases.json",
-      "data/content_categories.json"
-    ]
-  }
+{
+  "manifest_version": 3,
+  "name": "Content Warnings extension",
+  "version": "0.0",
+  "description": "Warns about user-defined keywords on webpages",
+  "homepage_url": "https://github.com/VantorreWannes/ContentWarnings",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["dist/js/bundle.js"]
+    }
+  ],
+  "action": {
+    "default_title": "Content Warnings"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["dist/data/flag_phrases.json", "dist/data/content_categories.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
   
