@@ -11,16 +11,13 @@ async function main() {
     console.log(occurences);
 }
 
-function getOccurences(text: string, content_categories: ContentCategory[]): { category: ContentCategory, found_phrases: string[] }[] {
+function getOccurences(text: string, content_categories: ContentCategory[]): { category: string, found_phrases: string[] }[] {
     const words: string[] = text.match(/\b[a-zA-Z]+\b/g);
     const search_service = new SearchService<string>(words);
-    const occurences = content_categories.map(category => {
-        const found_phrases = search_service.findAllOccurences((category.flag_phrases ?? []));
-        if (found_phrases.length > 0) {
-            return { category, found_phrases };
-        }
+    return content_categories.map(category => {
+        const found_phrases = search_service.findAllOccurences(category.flag_phrases);
+        return  { category: category.name, found_phrases };
     });
-    return occurences.filter(occurence => occurence != undefined);
 }
 
 main();
